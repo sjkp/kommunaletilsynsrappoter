@@ -61,7 +61,7 @@ for (const url of urls) {
 }
 }
 processUrls(plejehjem, urls).then(() => {
-fs.writeFile("aa.json", JSON.stringify(plejehjem, null, 2), (err) => {
+fs.writeFile("data/aa.json", JSON.stringify(plejehjem, null, 2), (err) => {
     if (err) {
       console.error(err);
       return;
