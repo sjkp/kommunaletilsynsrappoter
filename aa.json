@@ -1,1622 +1,1927 @@
 [
   {
     "name": "Engsøgaard",
+    "dbName": "Plejehjemmet Engsøgård",
     "links": [
       {
+        "url": "https://aarhus.dk/media/d54btbb5/18092024-internt-laeringsbesoeg-plejehjemmet-engsoegaard.pdf?format=noformat",
+        "name": "18.09.2024 - Internt læringsbesøg - Engsøgård"
+      },
+      {
         "url": "https://aarhus.dk/media/2duecaeo/kommunalt-tilsyn-13122023-engsoegaard.pdf?format=noformat",
-        "name": "Kommunalt tilsyn 13.12.2023 engsøgård"
+        "name": "13.12.2023 - Kommunalt tilsyn - Engsøgård"
       },
       {
         "url": "https://aarhus.dk/media/eklnntlr/09112022-kommunalt-tilsyn-distrikt-midt-vest-plejehjemmet-engsoegaard.pdf?format=noformat",
-        "name": "09.11.2022 kommunalt tilsyn distrikt midt vest, plejehjemmet engsøgård"
+        "name": "09.11.2022 - Kommunalt tilsyn - Engsøgård"
       },
       {
         "url": "https://aarhus.dk/media/tt2lzkej/11032021-kommunalt-tilsyn-omraade-vest-plejehjemmet-engsoegaard.pdf?format=noformat",
-        "name": "11.03.2021 kommunalt tilsyn område vest,  plejehjemmet  engsøgaard"
+        "name": "11.03.2021 - Kommunalt tilsyn - Engsøgård"
       },
       {
         "url": "https://aarhus.dk/media/nfwm3zrj/28012020-kommunalt-tilsyn-omraade-vest-plejehjemmet-engsoegaard.pdf?format=noformat",
-        "name": "28.01.2020 kommunalt tilsyn, område vest, plejehjemmet engsøgård"
+        "name": "28.01.2020 - Kommunalt tilsyn - Engsøgård"
       }
     ]
   },
   {
     "name": "Hasle",
+    "dbName": "Plejehjemmet Hasle",
     "links": [
       {
+        "url": "https://aarhus.dk/media/wkkjlcgk/03122024-kommunalt-tilsyn-plejehjemmet-hasle.pdf?format=noformat",
+        "name": "03.12.2024 - Kommunalt tilsyn - Hasle"
+      },
+      {
         "url": "https://aarhus.dk/media/zqnpvpqj/08-11-2023-kommunalt-tilsyn-hasle-plejehjem.pdf?format=noformat",
-        "name": "08.11.2023 - kommunalt tilsyn - hasle plejehjem"
+        "name": "08.11.2023 - Kommunalt tilsyn - Hasle"
       },
       {
         "url": "https://aarhus.dk/media/j1glcnq5/09112022-kommunalt-tilsyn-plejehjemmet-hasle-distrikt-midt-vest.pdf?format=noformat",
-        "name": "09.11.2022 kommunalt tilsyn, plejehjemmet hasle, distrikt midt vest"
+        "name": "09.11.2022 - Kommunalt tilsyn - Hasle"
       },
       {
         "url": "https://aarhus.dk/media/r30pqrqs/26032021-kommunalt-tilsyn-omraade-vest-plejehjemmet-rymarken-120.pdf?format=noformat",
-        "name": "26.03.2021 kommunalt tilsyn område vest, plejehjemmet rymarken 120"
+        "name": "26.03.2021 - Kommunalt tilsyn - Plejehjemmet Rymarken 120, Område Vest"
       },
       {
         "url": "https://aarhus.dk/media/nguf15nz/27022020-plejehjemmet-rymarken-120-omraade-vest.pdf?format=noformat",
-        "name": "27.02.2020 plejehjemmet rymarken 120, område vest"
+        "name": "27.02.2020 - Kommunalt tilsyn - Plejehjemmet Rymarken 120, Område Vest"
       }
     ]
   },
   {
     "name": "Rosenvang",
+    "dbName": "Plejehjemmet Rosenvang",
     "links": [
       {
+        "url": "https://aarhus.dk/media/5dofs3xv/20112024-kommunalt-tilsyn-plejehjemmet-rosenvang.pdf?format=noformat",
+        "name": "20.11.2024 - Kommunalt tilsyn - Plejehjemmet Rosenvang"
+      },
+      {
         "url": "https://aarhus.dk/media/4x1hyjcp/07-11-2023-kommunalt-tilsyn-plejehjemmet-rosenvang.pdf?format=noformat",
-        "name": "07-11-2023 - kommunalt tilsyn - plejehjemmet rosenvang"
+        "name": "07.11.2023 - Kommunalt tilsyn - Plejehjemmet Rosenvang"
       },
       {
         "url": "https://aarhus.dk/media/g4ohshci/04012023-kommunalt-tilsyn-tilsynsrapport-rosenvang-plejehjem-2022r.pdf?format=noformat",
-        "name": "04.01.2023 - kommunalt tilsyn - tilsynsrapport rosenvang plejehjem 2022r.pdf"
+        "name": "04.01.2023 - Kommunalt tilsyn - Plejehjemmet Rosenvang (2022)"
       },
       {
         "url": "https://aarhus.dk/media/maij3k5w/24062021-kommunalt-tilsyn-distrikt-midt-vest-plejehjemmet-rosenvangs-alle.pdf?format=noformat",
-        "name": "24.06.2021 kommunalt tilsyn distrikt midt vest, plejehjemmet rosenvangs alle´"
+        "name": "24.06.2021 - Kommunalt tilsyn - Plejehjemmet Rosenvang"
       },
       {
         "url": "https://aarhus.dk/media/y53l3eic/11082020-kommunalt-tilsyn-omraade-marselisborg-plejehjemmet-rosenvang.pdf?format=noformat",
-        "name": "11.08.2020 kommunalt tilsyn. område marselisborg. plejehjemmet rosenvang"
+        "name": "11.08.2020 - Kommunalt tilsyn - Plejehjemmet Rosenvang"
       }
     ]
   },
   {
     "name": "Sifsgård",
+    "dbName": "Plejehjemmet Sifsgård",
     "links": [
       {
+        "url": "https://aarhus.dk/media/boccvgyy/24092024-kommunalt-tilsyn-plejehjemmet-sifsgaarden.pdf?format=noformat",
+        "name": "24.09.2024 - Kommunalt tilsyn - Plejehjemmet Sifsgården"
+      },
+      {
         "url": "https://aarhus.dk/media/aw2d5hbr/19092023-kommunalt-tilsyn-sifsgaardenpdf.pdf?format=noformat",
-        "name": "19.09.2023 - kommunalt tilsyn - sifsgården.pdf"
+        "name": "19.09.2023 - Kommunalt tilsyn - Plejehjemmet Sifsgården"
       },
       {
         "url": "https://aarhus.dk/media/euxbteex/internt-laeringsbesoeg-sifgaarden-aabyhoej-d-141222.pdf?format=noformat",
-        "name": "Internt læringsbesøg sifgården åbyhøj d. 14.12.22.pdf"
+        "name": "14.12.2022 - Internt læringsbesøg - Plejehjemmet Sifsgården"
       },
       {
         "url": "https://aarhus.dk/media/i0dpva2b/30032021-kommunalt-tilsyn-omraade-midt-plejehjemmet-sifsgaarden.pdf?format=noformat",
-        "name": "30.03.2021 kommunalt tilsyn område midt, plejehjemmet sifsgården"
+        "name": "30.03.2021 - Kommunalt tilsyn - Plejehjemmet Sifsgården"
       },
       {
         "url": "https://aarhus.dk/media/ygajcbvl/22072020-kommunalt-tilsyn-omraade-midt-plejehjemmet-sifsgaarden.pdf?format=noformat",
-        "name": "22.07.2020 kommunalt tilsyn, område midt, plejehjemmet sifsgården"
+        "name": "22.07.2020 - Kommunalt tilsyn - Plejehjemmet Sifsgården"
       }
     ]
   },
   {
     "name": "Thorsgården",
+    "dbName": "Plejehjemmet Thorsgården",
     "links": [
       {
+        "url": "https://aarhus.dk/media/qjhgazi0/10122024-kommunalt-tilsyn-thorsgaarden.pdf?format=noformat",
+        "name": "10.12.2024 - kommunalt tilsyn - thorsgården"
+      },
+      {
         "url": "https://aarhus.dk/media/4cjk1lei/28-11-2023-tilsynsrapport-plejehjemmet-thorsga-rden-2023r.pdf?format=noformat",
-        "name": "28 11 2023 tilsynsrapport plejehjemmet thorsgården 2023r"
+        "name": "28.11.2023 - Kommunalt tilsyn - Plejehjemmet Thorsgården"
       },
       {
         "url": "https://aarhus.dk/media/4mfgru3a/02112022-kommunalt-tilsyn-plejehjemmet-thorsga-rden.pdf?format=noformat",
-        "name": "02.11.2022 kommunalt tilsyn, plejehjemmet thorsgården"
+        "name": "02.11.2022 - Kommunalt tilsyn - Plejehjemmet Thorsgården"
       },
       {
         "url": "https://aarhus.dk/media/fwinlbhj/09062022-stps-aeldretilsyn-plejehjemmet-thorsgaarden-distrikt-midtvest.pdf?format=noformat",
-        "name": "09.06.2022 stps ældretilsyn, plejehjemmet thorsgården, distrikt midtvest"
+        "name": "09.06.2022 - STPS ældretilsyn - Plejehjemmet Thorsgården"
       },
       {
         "url": "https://aarhus.dk/media/suvdzbu2/26082021-kommunalt-opfoelgende-tilsyn-distrikt-midt-vest-plejehjemmet-thorsgaarden.pdf?format=noformat",
-        "name": "26.08.2021 kommunalt opfølgende tilsyn distrikt midt vest, plejehjemmet thorsgården"
+        "name": "26.08.2021 - Kommunalt opfølgende tilsyn - Plejehjemmet Thorsgården"
       },
       {
         "url": "https://aarhus.dk/media/pxgfrvuh/25052021-kommunalt-tilsyn-omraade-midt-plejehjemmet-thorsgaarden.pdf?format=noformat",
-        "name": "25.05.2021 kommunalt tilsyn område midt, plejehjemmet thorsgården"
+        "name": "25.05.2021 - Kommunalt tilsyn - Plejehjemmet Thorsgården"
       },
       {
         "url": "https://aarhus.dk/media/fm4o45fi/10062020-kommunalt-tilsyn-plejehjemmet-thorsgaarden-omraade-midt.pdf?format=noformat",
-        "name": "10.06.2020 kommunalt tilsyn, plejehjemmet thorsgården, område midt"
+        "name": "10.06.2020 - Kommunalt tilsyn - Plejehjemmet Thorsgården"
       }
     ]
   },
   {
     "name": "Vidtskuevej",
+    "dbName": "Plejehjemmet Vidtskuevej",
     "links": [
       {
+        "url": "https://aarhus.dk/media/fbnckask/02092024-internt-laeringsbesoeg-plejehjemmet-vidtskuevej.pdf?format=noformat",
+        "name": "02.09.2024 - Internt læringsbesøg - Plejehjemmet Vidtskuevej"
+      },
+      {
         "url": "https://aarhus.dk/media/5kkaazbn/12-09-2023-kommunalt-tilsyn-vidtskuevejpdf.pdf?format=noformat",
-        "name": "12-09-2023 - kommunalt tilsyn - vidtskuevej.pdf"
+        "name": "12.09.2023 - Kommunalt tilsyn - Plejehjemmet Vidtskuevej"
       },
       {
         "url": "https://aarhus.dk/media/tswbw1ca/internt-laeringsbesoeg-vidtskuevej-d-231122.pdf?format=noformat",
-        "name": "Internt læringsbesøg vidtskuevej d. 23.11.22.pdf"
+        "name": "23.11.2022 - Internt læringsbesøg - Plejehjemmet Vidtskuevej"
       },
       {
         "url": "https://aarhus.dk/media/52lbctw3/10052021-kommunalt-tilsyn-omraade-marselisborg-plejehjemmet-vidtskuevej.pdf?format=noformat",
-        "name": "10.05.2021 kommunalt tilsyn område marselisborg, plejehjemmet vidtskuevej"
+        "name": "10.05.2021 - Kommunalt tilsyn - Plejehjemmet Vidtskuevej"
       },
       {
         "url": "https://aarhus.dk/media/hsjjm2oo/30072020-kommunalt-tilsyn-omraade-marselisborg-plejehjemmet-vidtskuevej.pdf?format=noformat",
-        "name": "30.07.2020. kommunalt tilsyn område marselisborg. plejehjemmet vidtskuevej"
+        "name": "30.07.2020 - Kommunalt tilsyn - Plejehjemmet Vidtskuevej"
       }
     ]
   },
   {
     "name": "Åbygård",
+    "dbName": "Plejehjemmet Åbygård",
     "links": [
       {
         "url": "https://aarhus.dk/media/ylrdr03s/kommunalt-tilsyn-15112023-tilsynsrapport-plejehjemmet-a-byga-rd-2023.pdf?format=noformat",
-        "name": "Kommunalt tilsyn 15.11.2023 tilsynsrapport plejehjemmet åbygård 2023"
+        "name": "15.11.2023 - Kommunalt tilsyn - Plejehjemmet Åbygård"
       },
       {
         "url": "https://aarhus.dk/media/zf4hxnvw/110123-kommunalt-tilsyn-tilsynsrapport-plejehjemmet-aabygaard-2022r.pdf?format=noformat",
-        "name": "11.01.23 - kommunalt tilsyn - tilsynsrapport plejehjemmet åbygård 2022r.pdf"
+        "name": "11.01.2023 - Kommunalt tilsyn - Plejehjemmet Åbygård (2022)"
       },
       {
         "url": "https://aarhus.dk/media/c5xdh0z3/15042021-kommunalt-tilsyn-omraade-midt-plejehjemmet-kingosvej.pdf?format=noformat",
-        "name": "15.04.2021 kommunalt tilsyn område midt, plejehjemmet kingosvej"
+        "name": "15.04.2021 - Kommunalt tilsyn - Plejehjemmet Kingosvej, Område Midt"
       },
       {
         "url": "https://aarhus.dk/media/gayjjpeg/06072020-kommunalt-tilsyn-omraade-midt-plejehjemmet-kingosvej.pdf?format=noformat",
-        "name": "06.07.2020 kommunalt tilsyn. område midt, plejehjemmet kingosvej"
+        "name": "06.07.2020 - Kommunalt tilsyn - Plejehjemmet Kingosvej, Område Midt"
       }
     ]
   },
   {
     "name": "Selvejende institution Fortegården",
+    "dbName": "Fortegården",
     "links": [
       {
+        "url": "https://aarhus.dk/media/nuepinc3/19062024-kommunalt-tilsyn-plejehjemmet-fortegaarden.pdf?format=noformat",
+        "name": "19.06.2024 - Kommunalt tilsyn - Plejehjemmet Fortegården"
+      },
+      {
         "url": "https://aarhus.dk/media/qz0ap1ld/08032023-kommunalt-tilsyn-fortegaarden.pdf?format=noformat",
-        "name": "08.03.2023 - kommunalt tilsyn - fortegården.pdf"
+        "name": "08.03.2023 - Kommunalt tilsyn - Plejehjemmet Fortegården"
       },
       {
         "url": "https://aarhus.dk/media/1tuagf0u/internt-laeringsbesoeg-fortegaarden-21122.pdf?format=noformat",
-        "name": "Internt læringsbesøg fortegården 2.11.22.pdf"
+        "name": "02.11.2022 - Internt læringsbesøg - Plejehjemmet Fortegården"
       },
       {
         "url": "https://aarhus.dk/media/3sblva35/09112021-kommunalt-opfoelgende-tilsyn-distrikt-midt-vest-plejehjemmet-fortegaarden.pdf?format=noformat",
-        "name": "09.11.2021 kommunalt opfølgende tilsyn distrikt midt vest, plejehjemmet fortegården"
+        "name": "09.11.2021 - Kommunalt opfølgende tilsyn - Plejehjemmet Fortegården"
       },
       {
         "url": "https://aarhus.dk/media/tm1jeceq/15062021-kommunalt-tilsyn-distrikt-midt-vest-plejehjemmet-fortegaarden.pdf?format=noformat",
-        "name": "15.06.2021 kommunalt tilsyn distrikt midt - vest, plejehjemmet fortegården"
+        "name": "15.06.2021 - Kommunalt tilsyn - Plejehjemmet Fortegården"
       },
       {
         "url": "https://aarhus.dk/media/regpkuvq/16022021-kommunalt-opfoelgende-tilsyn-fra-2020-fortegaarden.pdf?format=noformat",
-        "name": "16.02.2021 kommunalt opfølgende tilsyn (fra 2020) fortegården"
+        "name": "16.02.2021 - Kommunalt opfølgende tilsyn - Plejehjemmet Fortegården (2020)"
       },
       {
         "url": "https://aarhus.dk/media/2eenonm0/17112020-kommunalt-tilsyn-fortegaarden.pdf?format=noformat",
-        "name": "17.11.2020. kommunalt tilsyn fortegården"
+        "name": "17.11.2020 - Kommunalt tilsyn - Plejehjemmet Fortegården"
       }
     ]
   },
   {
     "name": "Selvejende institution Kløvervangen",
+    "dbName": "Plejehjemmet Kløvervangen",
     "links": [
       {
+        "url": "https://aarhus.dk/media/iywpwzxl/27062024-stps-sundhedsfagligt-tilsyn-plejehjemmet-kloevervangen.pdf?format=noformat",
+        "name": "27.06.2024 - stps sundhedsfagligt tilsyn - kløvervangen"
+      },
+      {
+        "url": "https://aarhus.dk/media/a2ddmtfi/25062024-kommunalt-tilsyn-plejehjemmet-kloevervangen.pdf?format=noformat",
+        "name": "25.06.2024 - Kommunalt tilsyn - Plejehjemmet Kløvervangen"
+      },
+      {
         "url": "https://aarhus.dk/media/kvri1yk1/kommunalt-tilsyn-kloevervang-26-04-2023.pdf?format=noformat",
-        "name": "Kommunalt tilsyn - kløvervang - 26-04-2023.pdf"
+        "name": "26.04.2023 - Kommunalt tilsyn - Plejehjemmet Kløvervangen"
       },
       {
         "url": "https://aarhus.dk/media/ak3d105i/10082022-kommunalt-tilsyn-plejehjemmet-kloevervangen.pdf?format=noformat",
-        "name": "10.08.2022 kommunalt tilsyn, plejehjemmet kløvervangen"
+        "name": "10.08.2022 - Kommunalt tilsyn - Plejehjemmet Kløvervangen"
       },
       {
         "url": "https://aarhus.dk/media/g2hgeold/14092021-kommunalt-tilsyn-plejehjemmet-kloevervangen.pdf?format=noformat",
-        "name": "14.09.2021 kommunalt tilsyn, plejehjemmet kløvervangen"
+        "name": "14.09.2021 - Kommunalt tilsyn - Plejehjemmet Kløvervangen"
       },
       {
         "url": "https://aarhus.dk/media/0z3jshzf/20102020-kommunalt-tilsyn-plejehjemmet-kloevervangen.pdf?format=noformat",
-        "name": "20.10.2020 kommunalt tilsyn, plejehjemmet kløvervangen"
+        "name": "20.10.2020 - Kommunalt tilsyn - Plejehjemmet Kløvervangen"
       }
     ]
   },
   {
     "name": "Selvejende institution Sct. Olaf",
+    "dbName": "Plejehjemmet Sct. Olaf",
     "links": [
       {
+        "url": "https://aarhus.dk/media/khchbppr/01102024-kommunalt-tilsyn-plejehjemmet-sct-olaf.pdf?format=noformat",
+        "name": "01.10.2024 - Kommunalt tilsyn - Plejehjemmet Sct. Olaf"
+      },
+      {
         "url": "https://aarhus.dk/media/5icfuf5b/24102023-aeldretilsyn-ood-fellow-plejehjemmet-sct-olaf.pdf?format=noformat",
-        "name": "24.10.2023 ældretilsyn ood fellow, plejehjemmet sct. olaf"
+        "name": "24.10.2023 - STPS ældretilsyn - Plejehjemmet Sct. Olaf"
       },
       {
         "url": "https://aarhus.dk/media/idkngp4d/internt-laeringsbesoeg-sct-olaf-d-1223.pdf?format=noformat",
-        "name": "Internt læringsbesøg sct olaf d. 1.2.23.pdf"
+        "name": "13.02.2023 - Internt læringsbesøg - Plejehjemmet Sct. Olaf"
       },
       {
         "url": "https://aarhus.dk/media/o2klplqj/07092022-kommunalt-tilsyn-plejehjemmet-sct-olaf.pdf?format=noformat",
-        "name": "07.09.2022 kommunalt tilsyn, plejehjemmet sct. olaf"
+        "name": "07.09.2022 - Kommunalt tilsyn - Plejehjemmet Sct. Olaf"
       },
       {
         "url": "https://aarhus.dk/media/ibnfklw5/02122021-kommunalt-opfoelgende-tilsyn-distrikt-midt-vest-plejehjemmet-sct-olaf.pdf?format=noformat",
-        "name": "02.12.2021 kommunalt opfølgende tilsyn distrikt midt vest, plejehjemmet sct. olaf"
+        "name": "02.12.2021 - Kommunalt opfølgende tilsyn - Plejehjemmet Sct. Olaf"
       },
       {
         "url": "https://aarhus.dk/media/bngluman/22062021-kommunalt-opfoelgende-tilsyn-distrikt-midt-vest-plejehjemmet-sct-olaf.pdf?format=noformat",
-        "name": "22.06.2021 kommunalt opfølgende tilsyn distrikt midt vest, plejehjemmet sct. olaf"
+        "name": "22.06.2021 - Kommunalt opfølgende tilsyn - Plejehjemmet Sct. Olaf"
       },
       {
         "url": "https://aarhus.dk/media/nyugbeae/10032021-kommunalt-tilsyn-plejehjemmet-sct-olaf.pdf?format=noformat",
-        "name": "10.03.2021 kommunalt tilsyn . plejehjemmet sct olaf"
+        "name": "10.03.2021 - Kommunalt tilsyn - Plejehjemmet Sct. Olaf"
       },
       {
         "url": "https://aarhus.dk/media/c1jhmwrp/08122020-kommunalt-tilsyn-genbesoeg-odd-fellow-plejehjemmet-sct-olaf.pdf?format=noformat",
-        "name": "08.12.2020. kommunalt tilsyn. genbesøg.  odd fellow plejehjemmet sct olaf"
+        "name": "08.12.2020 - Kommunalt tilsyn genbesøg - Plejehjemmet Sct. Olaf"
       },
       {
         "url": "https://aarhus.dk/media/mtbiisai/27082020-kommunalt-tilsyn-odd-fellow-plejehjemmet-sct-olaf.pdf?format=noformat",
-        "name": "27.08.2020. kommunalt tilsyn. odd fellow plejehjemmet sct olaf"
+        "name": "27.08.2020 - Kommunalt tilsyn - Plejehjemmet Sct. Olaf"
       },
       {
         "url": "https://aarhus.dk/media/2fqeyand/13062019-stps-aeldretilsyn-sct-olaf.pdf?format=noformat",
-        "name": "13.06.2019 stps. ældretilsyn, sct. olaf"
+        "name": "13.06.2019 - STPS ældretilsyn - Plejehjemmet Sct. Olaf"
       },
       {
         "url": "https://aarhus.dk/media/ce0b2nwn/05122019-bemaerkningsskema-sct-olaf.pdf?format=noformat",
-        "name": "05.12.2019 bemærkningsskema, sct.  olaf"
+        "name": "05.12.2019 - Bemærkningsskema - Plejehjemmet Sct. Olaf"
       }
     ]
   },
   {
     "name": "Specialplejehjemmet Skovvang",
+    "dbName": "Specialplejehjemmet Skovvang",
     "links": [
       {
-        "url": "https://aarhus.dk/media/moalkyd4/25-10-2023-tilsynsrapport-skovvang-afdeling-duevaenget.pdf?format=noformat",
-        "name": "25 10 2023 tilsynsrapport skovvang afdeling duevænget"
+        "url": "https://aarhus.dk/media/pdbll4gs/27112024-kommunalt-tilsyn-skovvang-plejehjem.pdf?format=noformat",
+        "name": "27.11.2024 - kommunalt tilsyn - plejehjemmet skovvang, duevænget"
       },
       {
-        "url": "https://aarhus.dk/media/s2kapuu1/24-10-2023-tilsynsrapport-korttidspladserne-skovvang-plejehjem-2023.pdf?format=noformat",
-        "name": "24-10-2023 - tilsynsrapport - korttidspladserne, skovvang plejehjem"
+        "url": "https://aarhus.dk/media/4kqbu23h/25112024-internt-laeringsbesoeg-skovvang-ceder-alle.pdf?format=noformat",
+        "name": "25.11.2024 - internt læringsbesøg - skovvang, ceder alle"
       },
       {
-        "url": "https://aarhus.dk/media/331pxg2g/26-09-2023-kommunalt-tilsyn-skovvang-ceder-alle.pdf?format=noformat",
-        "name": "26 09 2023 kommunalt tilsyn skovvang, ceder allé"
+        "url": "https://aarhus.dk/media/wzgpgsim/06112024-kommunalt-tilsyn-korttidspladserne-skovvang-plejehjem.pdf?format=noformat",
+        "name": "06.11.2024 - Kommunalt tilsyn - Plejehjemmet Skovvang, korttidspladserne"
       },
       {
-        "url": "https://aarhus.dk/media/sowf5dm1/17052023-kommunalt-tilsyn-plejehjemmet-skovvang-afd-birkelunden-2023-3.pdf?format=noformat",
-        "name": "17.05.2023 - kommunalt tilsyn -  plejehjemmet skovvang, afd birkelunden 2023-3.pdf"
-      },
-      {
-        "url": "https://aarhus.dk/media/k1kpaup3/internt-laeringsbesoeg-plejehjemmet-skovvang-d-11123.pdf?format=noformat",
-        "name": "Internt læringsbesøg plejehjemmet skovvang d. 11.1.23.pdf"
-      },
-      {
-        "url": "https://aarhus.dk/media/pitd43iz/05102022-kommunalt-tilsyn-korttidspladserne-skovvang.pdf?format=noformat",
-        "name": "05.10.2022 kommunalt tilsyn, korttidspladserne skovvang"
-      },
-      {
-        "url": "https://aarhus.dk/media/c21m0rmp/13092022-stps-aeldretilsyn-plejehjemmet-skovvang-distrikt-midtvest.pdf?format=noformat",
-        "name": "13.09.2022 stps ældretilsyn, plejehjemmet skovvang, distrikt midtvest"
-      },
-      {
-        "url": "https://aarhus.dk/media/0o4dr53q/16112021-kommunalt-opfoelgende-tilsyn-distrikt-midt-vest-plejehjemmet-skovvangen-korttidspladserne.pdf?format=noformat",
-        "name": "16.11.2021 kommunalt opfølgende tilsyn distrikt midt vest, plejehjemmet skovvangen, korttidspladserne"
-      },
-      {
-        "url": "https://aarhus.dk/media/kxrhrrh1/05112021-kommunalt-opfoelgende-tilsyn-distrikt-midt-vest-plejehjemmet-skovvangen-afd-alpedalen-og-cederalle.pdf?format=noformat",
-        "name": "05.11.2021 kommunalt opfølgende tilsyn distrikt midt vest, plejehjemmet skovvangen, afd. alpedalen og cederalle"
-      },
-      {
-        "url": "https://aarhus.dk/media/gacd1n5d/04112021-kommunalt-opfoelgende-tilsyn-distrikt-midt-vest-plejehjemmet-skovvangen-afdeling-birkelunden.pdf?format=noformat",
-        "name": "04.11.2021 kommunalt opfølgende tilsyn distrikt midt vest, plejehjemmet skovvangen, afdeling , birkelunden"
-      },
-      {
-        "url": "https://aarhus.dk/media/ojmjx0jh/20072021-kommunalt-tilsyn-distrikt-midt-vest-korttidspladserne-skovvang.pdf?format=noformat",
-        "name": "20.07.2021 kommunalt tilsyn distrikt midt vest, korttidspladserne skovvang"
-      },
-      {
-        "url": "https://aarhus.dk/media/lknb25er/01072021-kommunalt-tilsyn-distrikt-midt-vest-plejehjemmet-skovvang.pdf?format=noformat",
-        "name": "01.07.2021. kommunalt tilsyn distrikt midt vest, plejehjemmet skovvang"
-      },
-      {
-        "url": "https://aarhus.dk/media/pwnph5d0/08062021-stps-sundhedsfagligt-tilsyn-distrikt-midt-vest-korttidspladser-skovvang.pdf?format=noformat",
-        "name": "08.06.2021 stps sundhedsfagligt tilsyn distrikt midt vest, korttidspladser  skovvang"
+        "url": "https://aarhus.dk/media/t3udolxo/28082024-kommunalt-tilsyn-plejehjemmet-skovvang-afdeling-birkelunden.pdf?format=noformat",
+        "name": "28.08.2024 - Kommunalt tilsyn - Plejehjemmet Skovvang, afdeling Birkelunden"
       },
       {
         "url": "https://aarhus.dk/media/vwnlmfyx/170124-kommunalt-tilsyn-alpedalen-2023.pdf?format=noformat",
-        "name": "17.01.24 kommunalt tilsyn alpedalen (2023)"
+        "name": "17.01.2024 - Kommunalt tilsyn - Plejehjemmet Skovvang, afdeling Alpedalen (2023)"
+      },
+      {
+        "url": "https://aarhus.dk/media/moalkyd4/25-10-2023-tilsynsrapport-skovvang-afdeling-duevaenget.pdf?format=noformat",
+        "name": "25.10.2023 - Kommunalt tilsyn - Plejehjemmet Skovvang, afdeling Duevænget"
+      },
+      {
+        "url": "https://aarhus.dk/media/s2kapuu1/24-10-2023-tilsynsrapport-korttidspladserne-skovvang-plejehjem-2023.pdf?format=noformat",
+        "name": "24.10.2023 - Kommunalt tilsyn - Plejehjemmet Skovvang, Korttidspladserne"
+      },
+      {
+        "url": "https://aarhus.dk/media/331pxg2g/26-09-2023-kommunalt-tilsyn-skovvang-ceder-alle.pdf?format=noformat",
+        "name": "26.09.2023 - Kommunalt tilsyn - Plejehjemmet Skovvang, afdeling Ceder allé"
+      },
+      {
+        "url": "https://aarhus.dk/media/sowf5dm1/17052023-kommunalt-tilsyn-plejehjemmet-skovvang-afd-birkelunden-2023-3.pdf?format=noformat",
+        "name": "17.05.2023 - Kommunalt tilsyn -  Plejehjemmet Skovvang, afdeling Birkelunden"
+      },
+      {
+        "url": "https://aarhus.dk/media/k1kpaup3/internt-laeringsbesoeg-plejehjemmet-skovvang-d-11123.pdf?format=noformat",
+        "name": "11.01.2023 - Internt læringsbesøg - Plejehjemmet Skovvang"
+      },
+      {
+        "url": "https://aarhus.dk/media/pitd43iz/05102022-kommunalt-tilsyn-korttidspladserne-skovvang.pdf?format=noformat",
+        "name": "05.10.2022 - Kommunalt tilsyn - Plejehjemmet Skovvang, Korttidspladserne"
+      },
+      {
+        "url": "https://aarhus.dk/media/c21m0rmp/13092022-stps-aeldretilsyn-plejehjemmet-skovvang-distrikt-midtvest.pdf?format=noformat",
+        "name": "13.09.2022 - STPS ældretilsyn - plejehjemmet Skovvang"
+      },
+      {
+        "url": "https://aarhus.dk/media/0o4dr53q/16112021-kommunalt-opfoelgende-tilsyn-distrikt-midt-vest-plejehjemmet-skovvangen-korttidspladserne.pdf?format=noformat",
+        "name": "16.11.2021 - Kommunalt opfølgende tilsyn - Plejehjemmet Skovvang, Korttidspladserne"
+      },
+      {
+        "url": "https://aarhus.dk/media/kxrhrrh1/05112021-kommunalt-opfoelgende-tilsyn-distrikt-midt-vest-plejehjemmet-skovvangen-afd-alpedalen-og-cederalle.pdf?format=noformat",
+        "name": "05.11.2021 - Kommunalt opfølgende tilsyn - Plejehjemmet Skovvang, afdeling Alpedalen og Ceder Allé"
+      },
+      {
+        "url": "https://aarhus.dk/media/gacd1n5d/04112021-kommunalt-opfoelgende-tilsyn-distrikt-midt-vest-plejehjemmet-skovvangen-afdeling-birkelunden.pdf?format=noformat",
+        "name": "04.11.2021 - Kommunalt opfølgende tilsyn - Plejehjemmet Skovvang, afdeling Birkelunden"
+      },
+      {
+        "url": "https://aarhus.dk/media/ojmjx0jh/20072021-kommunalt-tilsyn-distrikt-midt-vest-korttidspladserne-skovvang.pdf?format=noformat",
+        "name": "20.07.2021 - Kommunalt tilsyn - Plejehjemmet Skovvang, Korttidspladserne"
+      },
+      {
+        "url": "https://aarhus.dk/media/lknb25er/01072021-kommunalt-tilsyn-distrikt-midt-vest-plejehjemmet-skovvang.pdf?format=noformat",
+        "name": "01.07.2021 - Kommunalt tilsyn - Plejehjemmet Skovvang"
+      },
+      {
+        "url": "https://aarhus.dk/media/pwnph5d0/08062021-stps-sundhedsfagligt-tilsyn-distrikt-midt-vest-korttidspladser-skovvang.pdf?format=noformat",
+        "name": "08.06.2021 - STPS sundhedsfagligt tilsyn - Plejehjemmet Skovvang, Korttidspladserne"
       }
     ]
   },
   {
     "name": "Selvejende OK-Fonden Egå",
+    "dbName": "OK-Fonden Egå",
     "links": [
       {
         "url": "https://aarhus.dk/media/jggpdbpg/24-01-2024-kommunalt-tilsyn-tilsynsrapport-plejehjemmet-ok-fonden-ega-2023.pdf?format=noformat",
-        "name": "24 01 2024 kommunalt tilsyn tilsynsrapport plejehjemmet ok fonden egå (2023)"
+        "name": "24.01.2024 - Kommunalt tilsyn - Plejehjemmet OK-Fonden Egå (2023)"
       },
       {
         "url": "https://aarhus.dk/media/5gnmmp52/internt-laeringsbesoeg-ok-fondens-plejehjem-egaa-d-281122.pdf?format=noformat",
-        "name": "Internt læringsbesøg ok fondens plejehjem egå d 28.11.22.pdf"
+        "name": "28.11.2022 - Internt læringsbesøg - Plejehjemmet OK-Fonden Egå"
       },
       {
         "url": "https://aarhus.dk/media/ok0ph0fa/15072021-kommunalt-tilsyn-distrikt-nord-plejehjemmet-ok-fonden-egaa.pdf?format=noformat",
-        "name": "15.07.2021 kommunalt tilsyn distrikt nord, plejehjemmet ok-fonden egå"
+        "name": "15.07.2021 - Kommunalt tilsyn - Plejehjemmet OK-Fonden Egå"
       },
       {
         "url": "https://aarhus.dk/media/uf1nzwz0/23012020-kommunalt-tilsyn-ok-egaa.pdf?format=noformat",
-        "name": "23.01.2020 kommunalt tilsyn ok-egå"
+        "name": "23.01.2020 - Kommunalt tilsyn - Plejehjemmet OK-Fonden Egå"
       }
     ]
   },
   {
     "name": "Aarhus Friplejehjem Helheden",
+    "dbName": "Aarhus Friplejehjem Helheden",
     "links": [
       {
+        "url": "https://aarhus.dk/media/psqn0v41/29012025-kommunalt-tilsyn-aarhus-friplejehjem-helheden.pdf?format=noformat",
+        "name": "29.01.2025 - kommunalt tilsyn - aarhus friplejehjem helheden"
+      },
+      {
         "url": "https://aarhus.dk/media/fg3m1lru/05122023-kommunalt-tilsyn-friplejehjem-helheden.pdf?format=noformat",
-        "name": "05.12.2023 kommunalt tilsyn friplejehjem helheden"
+        "name": "05.12.2023 - Kommunalt tilsyn - Aarhus Friplejehjem Helheden"
       },
       {
         "url": "https://aarhus.dk/media/jd2pzham/16112023-aeldretilsyn-aarhus-friplejehjem.pdf?format=noformat",
-        "name": "16.11.2023 ældretilsyn aarhus friplejehjem"
+        "name": "16.11.2023 - STPS ældretilsyn - Aarhus Friplejehjem Helheden"
       },
       {
         "url": "https://aarhus.dk/media/ewrctkqu/19102023-sundhedsfaglig-aarhus-friplejehjem-helheden.pdf?format=noformat",
-        "name": "19.10.2023 sundhedsfaglig aarhus friplejehjem helheden"
+        "name": "19.10.2023 - STPS sundhedsfaglig tilsyn - Aarhus Friplejehjem Helheden"
       }
     ]
   },
   {
     "name": "Ankersgade",
+    "dbName": "Plejehjemmet Ankersgade",
     "links": [
       {
+        "url": "https://aarhus.dk/media/juchgm3d/26112024-kommunalt-tilsyn-ankersgade-25-27.pdf?format=noformat",
+        "name": "26.11.2024 - Kommunalt tilsyn - Plejehjemmet Ankersgade 25-27"
+      },
+      {
+        "url": "https://aarhus.dk/media/r1wldjry/27082024-kommunalt-tilsyn-plejehjemmet-ankersgade-afdeling-19-23.pdf?format=noformat",
+        "name": "27.08.2024 - Kommunalt tilsyn - Plejehjemmet Ankersgade, afdeling 19-23"
+      },
+      {
         "url": "https://aarhus.dk/media/lmupyqmn/endelig-tilsynsrapport-ankersgade-25-27.pdf?format=noformat",
-        "name": "06.11.2023 STPS Sundhedsfagligt tilsyn med fokus på Insulin. Ankersgade 25 27"
+        "name": "06.11.2023 - STPS sundhedsfagligt tilsyn insulin - Plejehjemmet Ankersgade 25-27"
       },
       {
         "url": "https://aarhus.dk/media/anzbwq0r/01-11-2023-tilsynsrapport-ankersgade-25-27.pdf?format=noformat",
-        "name": "01-11-2023 tilsynsrapport ankersgade 25-27"
+        "name": "01.11.2023 - Kommunalt tilsyn- Plejehjemmet Ankersgade 25-27"
       },
       {
         "url": "https://aarhus.dk/media/wypl3z03/12-04-2023-kommunalt-tilsyn-ankersgade.pdf?format=noformat",
-        "name": "12-04-2023 - kommunalt tilsyn - ankersgade.pdf.pdf"
+        "name": "12.04.2023 - Kommunalt tilsyn - Plejehjemmet Ankersgade, afdeling 19-23"
       },
       {
         "url": "https://aarhus.dk/media/53hcmzvu/internt-laeringsbesoeg-ankersgade-30822.pdf?format=noformat",
-        "name": "Internt læringsbesøg ankersgade 30.8.22.pdf"
+        "name": "30.08.2022 - Internt læringsbesøg - Plejehjemmet Ankersgade"
       },
       {
         "url": "https://aarhus.dk/media/0oahdhbo/17052021-kommunalt-tilsyn-plejehjemmet-ankersgade-omraade-marselisborg.pdf?format=noformat",
-        "name": "17.05.2021 kommunalt tilsyn, plejehjemmet ankersgade, område marselisborg"
+        "name": "17.05.2021 - Kommunalt tilsyn - Plejehjemmet Ankersgade"
       },
       {
         "url": "https://aarhus.dk/media/uwlhyd5m/01092020-kommunalt-tilsyn-plejehjemmet-ankersgade-omraade-marselisborg.pdf?format=noformat",
-        "name": "01.09.2020 kommunalt tilsyn, plejehjemmet ankersgade, område marselisborg"
+        "name": "01.09.2020 - Kommunalt tilsyn - Plejehjemmet Ankersgade"
       },
       {
         "url": "https://aarhus.dk/media/gntdjpyb/03092019-stp-aeldretilsyn-ankersgade-19-omraade-marselis.pdf?format=noformat",
-        "name": "03.09.2019 stp ældretilsyn, ankersgade 19, område marselis"
+        "name": "03.09.2019 - STPS ældretilsyn - Plejehjemmet Ankersgade 19"
       },
       {
         "url": "https://aarhus.dk/media/nijhvhmh/15082019-stp-sundhedsfagligt-tilsyn-ankersgade-27-omraade-marselis.pdf?format=noformat",
-        "name": "15.08.2019 stp sundhedsfagligt tilsyn, ankersgade 27, område marselis"
+        "name": "15.08.2019 - STPS sundhedsfagligt tilsyn - Plejehjemmet Ankersgade 27"
       }
     ]
   },
   {
     "name": "Augustenborggade",
+    "dbName": "Plejehjemmet Augustenborggade",
     "links": [
       {
+        "url": "https://aarhus.dk/media/x15cj2oi/10092024-internt-laeringsbesoeg-plejehjemmet-augustenborggade.pdf?format=noformat",
+        "name": "10.09.2024 - Internt læringsbesøg - Plejehjemmet Augustenborggade"
+      },
+      {
         "url": "https://aarhus.dk/media/kzliaeaz/22-11-2023-kommunalt-tilsyn-augustenborggade.pdf?format=noformat",
-        "name": "22 11 2023 kommunalt tilsyn augustenborggade"
+        "name": "22.11.2023 - Kommunalt tilsyn - Plejehjemmet Augustenborggade"
       },
       {
         "url": "https://aarhus.dk/media/ytgnv1sy/28032023-stps-sundhedsfagligt-tilsyn-med-fokus-paa-blodfortyndende-medicin-distrikt-midt-oest-plejehjemmet-augustenborggade.pdf?format=noformat",
-        "name": "28.03.2023 stps. sundhedsfagligt tilsyn med fokus på blodfortyndende medicin.  distrikt midt øst, plejehjemmet augustenborggade"
+        "name": "28.03.2023 - STPS sundhedsfagligt tilsyn blodfortyndende medicin - Plejehjemmet Augustenborggade"
       },
       {
         "url": "https://aarhus.dk/media/25pkcuj2/18102022-kommunalt-tilsyn-augustenborggade.pdf?format=noformat",
-        "name": "18.10.2022 kommunalt tilsyn, augustenborggade"
+        "name": "18.10.2022 - Kommunalt tilsyn - Plejehjemmet Augustenborggade"
       },
       {
         "url": "https://aarhus.dk/media/ja2oiuqi/10062021-kommunalt-tilsyn-distrikt-midt-vest-plejehjemmet-augustenborggade.pdf?format=noformat",
-        "name": "10.06.2021 kommunalt tilsyn distrikt midt  vest, plejehjemmet augustenborggade"
+        "name": "10.06.2021 - Kommunalt tilsyn - Plejehjemmet Augustenborggade"
       },
       {
         "url": "https://aarhus.dk/media/vgok55eb/18082020-kommunalt-tilsyn-omraade-marselisborg-plejehjemmet-augustenborggade.pdf?format=noformat",
-        "name": "18.08.2020 kommunalt tilsyn område marselisborg, plejehjemmet augustenborggade."
+        "name": "18.08.2020 - Kommunalt tilsyn - Plejehjemmet Augustenborggade"
       }
     ]
   },
   {
     "name": "Carl Blochs Gade",
+    "dbName": "Plejehjemmet Carl Blochs Gade",
     "links": [
       {
+        "url": "https://aarhus.dk/media/lpnpqlyn/22102024-kommunalt-tilsyn-plejehjemmet-carl-blochs-gade.pdf?format=noformat",
+        "name": "22.10.2024 - Kommunalt tilsyn - Plejehjemmet Carl Blochs Gade"
+      },
+      {
         "url": "https://aarhus.dk/media/ahvh4y0h/11-10-2023-kommunalt-tilsyn-plejehjemmet-carl-blochs-gade.pdf?format=noformat",
-        "name": "11 10 2023 kommunalt tilsyn plejehjemmet carl blochs gade"
+        "name": "11.10.2023 - Kommunalt tilsyn - Plejehjemmet Carl Blochs Gade"
       },
       {
         "url": "https://aarhus.dk/media/fuknve25/internt-laeringsbesoeg-carl-blochs-gade-d-211222.pdf?format=noformat",
-        "name": "Internt læringsbesøg carl blochs gade d 21.12.22.pdf"
+        "name": "21.12.2022 - Internt læringsbesøg - Plejehjemmet Carl Blochs Gade"
       },
       {
         "url": "https://aarhus.dk/media/2olbkxj1/13072021-kommunalt-tilsyn-distrikt-midt-oest-plejeboligerne-carl-blochs-gade.pdf?format=noformat",
-        "name": "13.07.2021 kommunalt tilsyn distrikt midt øst, plejeboligerne carl blochs gade"
+        "name": "13.07.2021 - Kommunalt tilsyn - Plejehjemmet Carl Blochs Gade"
       },
       {
         "url": "https://aarhus.dk/media/y2ufljqy/16072020-kommunalt-tilsyn-omraade-midt-plejehjemmet-carl-blochs-gade.pdf?format=noformat",
-        "name": "16.07.2020 kommunalt tilsyn, område midt, plejehjemmet carl blochs gade"
+        "name": "16.07.2020 - Kommunalt tilsyn - Plejehjemmet Carl Blochs Gade"
       }
     ]
   },
   {
     "name": "Ceres Huset",
+    "dbName": "Plejehjemmet Cereshuset",
     "links": [
       {
         "url": "https://aarhus.dk/media/hmwpoqbv/16012024-tilsynsrapport-ceres-huset-2023.pdf?format=noformat",
-        "name": "16.01.2024 kommunalt tilsyn ceres huset (2023)"
+        "name": "16.01.2024 - Kommunalt tilsyn - Ceres Huset (2023)"
       },
       {
         "url": "https://aarhus.dk/media/q1rdbuz1/ceres-alle-endelig-tilsynsrapport.pdf?format=noformat",
-        "name": "28.09.2023  STPS Ældretilsyn Distrikt Midt Øst, plejehjemmet Ceres alle´"
+        "name": "28.09.2023 - STPS ældretilsyn - Ceres Huset"
       },
       {
         "url": "https://aarhus.dk/media/ydwmytfy/16112022-internt-laeringsbesoeg-cereshuset.pdf?format=noformat",
-        "name": "16.11.2022 - internt læringsbesøg - cereshuset.pdf"
+        "name": "16.11.2022 - Internt læringsbesøg - Ceres Huset"
       },
       {
         "url": "https://aarhus.dk/media/i5wcqhho/06052021-kommunalt-tilsyn-omraade-midt-plejehjemmet-ceres-alle.pdf?format=noformat",
-        "name": "06.05.2021 kommunalt tilsyn område midt, plejehjemmet ceres alle´"
+        "name": "06.05.2021 - Kommunalt tilsyn - Ceres Huset"
       },
       {
         "url": "https://aarhus.dk/media/fxdjksmr/10072020-kommunalt-tilsyn-omraade-midt-plejehjemmet-ceres-alle.pdf?format=noformat",
-        "name": "10.07.2020 kommunalt tilsyn område midt, plejehjemmet ceres alle"
+        "name": "10.07.2020 - Kommunalt tilsyn - Ceres Huset"
       }
     ]
   },
   {
     "name": "Fuglebakken",
+    "dbName": "Plejehjemmet Fuglebakken",
     "links": [
       {
+        "url": "https://aarhus.dk/media/2nnjajdm/20012025-internt-laeringsbesoeg-fuglebakken.pdf?format=noformat",
+        "name": "20.01.2025 - internt læringsbesøg - fuglebakken"
+      },
+      {
         "url": "https://aarhus.dk/media/02afc0wx/27092023-kommunalt-tilsyn-fuglebakken.pdf?format=noformat",
-        "name": "27.09.2023 kommunalt tilsyn fuglebakken"
+        "name": "27.09.2023 - Kommunalt tilsyn - Fuglebakken"
       },
       {
         "url": "https://aarhus.dk/media/n51lqd1p/29092022-stps-sundhedsfagligt-tilsyn-distrikt-midt-oest-plejehjemmet-fuglebakken.pdf?format=noformat",
-        "name": "29.09.2022 stps sundhedsfagligt tilsyn, distrikt midt øst, plejehjemmet fuglebakken"
+        "name": "29.09.2022 - STPS sundhedsfagligt tilsyn - Fuglebakken"
       },
       {
         "url": "https://aarhus.dk/media/jklbfukc/02112022-kommunalt-tilsyn-plejehjemmet-fuglebakken.pdf?format=noformat",
-        "name": "02.11.2022 kommunalt tilsyn, plejehjemmet fuglebakken"
+        "name": "02.11.2022 - Kommunalt tilsyn - Fuglebakken"
       },
       {
         "url": "https://aarhus.dk/media/bjjlb0vh/27072021-kommunalt-tilsyn-distrikt-midt-oest-plejehjemmet-fuglebakken.pdf?format=noformat",
-        "name": "27.07.2021 kommunalt tilsyn distrikt midt øst, plejehjemmet fuglebakken"
+        "name": "27.07.2021 - Kommunalt tilsyn - Fuglebakken"
       },
       {
         "url": "https://aarhus.dk/media/f5vpxnxk/06102020-kommunalt-tilsyn-plejehjemmet-fuglebakken-omraade-christiansbjerg.pdf?format=noformat",
-        "name": "06.10.2020 kommunalt tilsyn, plejehjemmet fuglebakken, område christiansbjerg"
+        "name": "06.10.2020 - Kommunalt tilsyn - Fuglebakken"
       },
       {
         "url": "https://aarhus.dk/media/scno0csn/04092019-fuglebakken-bemaerkningsskema.pdf?format=noformat",
-        "name": "04.09.2019  fuglebakken  bemærkningsskema"
+        "name": "04.09.2019 - Bemærkningsskema - Fuglebakken"
       },
       {
         "url": "https://aarhus.dk/media/2kulkf5r/04092019-fuglebakken-notat.pdf?format=noformat",
-        "name": "04.09.2019 fuglebakken notat"
+        "name": "04.09.2019 - Notat - Fuglebakken"
       }
     ]
   },
   {
     "name": "Generationernes Hus",
+    "dbName": "Generationernes Hus",
     "links": [
       {
+        "url": "https://aarhus.dk/media/ki4d0a4m/28112024-stps-aeldre-tilsyn-generationernes-hus-9.pdf?format=noformat",
+        "name": "28.11.2024 - stps ældretilsyn - generationernes hus 9"
+      },
+      {
+        "url": "https://aarhus.dk/media/sk5d1mmp/14102024-kommunalt-tilsyn-plehjemmet-generationernes-hus-hus-9.pdf?format=noformat",
+        "name": "14.10.2024- Kommunalt tilsyn - Generationernes Hus, Hus 9"
+      },
+      {
+        "url": "https://aarhus.dk/media/z0podcoy/22-05-2024-plejehjemmet-generationernes-hus-3-kommunalt-tilsyn.pdf?format=noformat",
+        "name": "22.05.2024 - Kommunalt tilsyn - Plejehjemmet Generationernes Hus 3"
+      },
+      {
         "url": "https://aarhus.dk/media/jorclijj/22032023-kommunalt-tilsyn-generationernes-hus.pdf?format=noformat",
-        "name": "22.03.2023 - kommunalt tilsyn - generationernes hus.pdf"
+        "name": "22.03.2023 - Kommunalt tilsyn - Plejehjemmet Generationernes Hus"
       },
       {
         "url": "https://aarhus.dk/media/ievdj5gx/internt-laeringsbesoeg-generationernes-hus-23822-1.pdf?format=noformat",
-        "name": "Internt læringsbesøg generationernes hus 23.8.22 (1).pdf"
+        "name": "23.08.2022 - Internt læringsbesøg - Plejehjemmet Generationernes Hus"
       },
       {
         "url": "https://aarhus.dk/media/r2npio2n/12052020-kommunalt-tilsyn-omraade-midt-plejehjemmet-generationernes-hus.pdf?format=noformat",
-        "name": "12.05.2020 kommunalt tilsyn område midt, plejehjemmet generationernes hus"
+        "name": "12.05.2020 - Kommunalt tilsyn - Plejehjemmet Generationernes Hus"
       }
     ]
   },
   {
     "name": "Husumvej",
+    "dbName": "Plejehjemmet Husumvej",
     "links": [
       {
+        "url": "https://aarhus.dk/media/np5jazyw/04092024-kommunalttilsyn-plejehjemmet-husumvej.pdf?format=noformat",
+        "name": "04.09.2024 - Kommunalt tilsyn - Plejehjemmet Husumvej"
+      },
+      {
+        "url": "https://aarhus.dk/media/ejilqegd/11-06-2024-stps-aeldretilsyn-plejehjemmet-husumvej.pdf?format=noformat",
+        "name": "11.06.2024 - STPS ældretilsyn - Plejehjemmet Husumvej"
+      },
+      {
         "url": "https://aarhus.dk/media/upnk2ts1/06062023-kommunalt-tilsyn-plejehjemmet-husumvej.pdf?format=noformat",
-        "name": "06.06.2023 kommunalt tilsyn plejehjemmet husumvej"
+        "name": "06.06.2023 - Kommunalt tilsyn - Plejehjemmet Husumvej"
       },
       {
         "url": "https://aarhus.dk/media/zvxbeuvh/06062023-kommunalt-tilsyn-plejehjemmet-husumvejpdf.pdf?format=noformat",
-        "name": "06.06.2023 - kommunalt tilsyn - plejehjemmet husumvej.pdf"
+        "name": "06.06.2023 - Kommunalt tilsyn - Plejehjemmet Husumvej (1)"
       },
       {
         "url": "https://aarhus.dk/media/lwxdxhk4/18102022-kommunalt-tilsyn-plejehjemmet-husumvej-distrikt-midtoest.pdf?format=noformat",
-        "name": "18.10.2022 kommunalt tilsyn, plejehjemmet husumvej, distrikt midtøst"
+        "name": "18.10.2022 - Kommunalt tilsyn - Plejehjemmet Husumvej"
       },
       {
         "url": "https://aarhus.dk/media/e4ejsv0n/10082021-kommunalt-tilsyn-omraade-marselisborg-plejehjemmet-husumvej.pdf?format=noformat",
-        "name": "10.08.2021 kommunalt tilsyn område marselisborg, plejehjemmet husumvej"
+        "name": "10.08.2021 - Kommunalt tilsyn - Plejehjemmet Husumvej"
       },
       {
         "url": "https://aarhus.dk/media/qwjbkmdz/2804-2021-kommunalt-tilsyn-omraade-marselis-plejehjemmet-husumvej.pdf?format=noformat",
-        "name": "28.04 2021 kommunalt tilsyn område marselis, plejehjemmet husumvej"
+        "name": "28.04.2021 - Kommunalt tilsyn - Plejehjemmet Husumvej"
       },
       {
         "url": "https://aarhus.dk/media/crymnj1k/24072020-kommunalt-tilsyn-omraade-marselisborg-plejehjemmet-husumvej-og-plejeboligerne-dalgas.pdf?format=noformat",
-        "name": "24.07.2020. kommunalt tilsyn område marselisborg, plejehjemmet husumvej og plejeboligerne dalgas"
+        "name": "24.07.2020 - Kommunalt tilsyn - Plejehjemmet Husumvej og Plejeboligerne Dalgas"
       }
     ]
   },
   {
     "name": "Møllestien",
+    "dbName": "Plejehjemmet Møllestien",
     "links": [
       {
         "url": "https://aarhus.dk/media/abih3ni4/06082020-kommunalt-tilsyn-omraade-midt-plejehjemmet-moellestien.pdf?format=noformat",
-        "name": "06.08.2020 kommunalt tilsyn, område midt, plejehjemmet møllestien"
+        "name": "06.08.2020 - Kommunalt tilsyn - Plejehjemmet Møllestien"
       }
     ]
   },
   {
     "name": "Trøjborg",
+    "dbName": "Plejehjemmet Trøjborg",
     "links": [
       {
+        "url": "https://aarhus.dk/media/fbzmtt14/12062024-internt-laeringsbesoeg-plejehjemmet-troejborg.pdf?format=noformat",
+        "name": "12.06.2024 - Internt læringsbesøg - Plejehjemmet Trøjborg"
+      },
+      {
         "url": "https://aarhus.dk/media/gs1hbtep/kommunalt-tilsyn-plejehjemmet-troejborg-d-30082023.pdf?format=noformat",
-        "name": "Kommunalt tilsyn plejehjemmet trøjborg d. 30.08.2023"
+        "name": "30.08.2023 - Kommunalt tilsyn - Plejehjemmet Trøjborg"
       },
       {
         "url": "https://aarhus.dk/media/xgwekted/internt-laeringsbesoeg-plejehjemmet-troejborg-d-4123.pdf?format=noformat",
-        "name": "Internt læringsbesøg plejehjemmet trøjborg d. 4.1.23.pdf"
+        "name": "04.01.2023 - Internt læringsbesøg - Plejehjemmet Trøjborg"
       },
       {
         "url": "https://aarhus.dk/media/z4fe1nio/19042022-stps-sundhedsfagligt-tilsyn-plejehjemmet-troejborg-distrikt-midtoest.pdf?format=noformat",
-        "name": "19.04.2022 stps sundhedsfagligt tilsyn, plejehjemmet trøjborg, distrikt midtøst"
+        "name": "19.04.2022 - STPS sundhedsfagligt tilsyn - Plejehjemmet Trøjborg"
       },
       {
         "url": "https://aarhus.dk/media/lerntlap/29062021-kommunalt-tilsyn-distrikt-midt-oest-plejehjemmet-troejborg.pdf?format=noformat",
-        "name": "29.06.2021 kommunalt tilsyn distrikt midt øst, plejehjemmet trøjborg"
+        "name": "29.06.2021 - Kommunalt tilsyn - Plejehjemmet Trøjborg"
       },
       {
         "url": "https://aarhus.dk/media/beyaopz0/08102020-kommunalt-tilsyn-omraade-christiansbjerg-plejehjemmet-troejborg.pdf?format=noformat",
-        "name": "08.10.2020 kommunalt tilsyn, område christiansbjerg, plejehjemmet trøjborg"
+        "name": "08.10.2020 - Kommunalt tilsyn - Plejehjemmet Trøjborg"
       },
       {
         "url": "https://aarhus.dk/media/ygnnfgua/15102019-troejborg-notat.pdf?format=noformat",
-        "name": "15.10.2019 trøjborg notat"
+        "name": "15.10.2019 - Notat - Plejehjemmet Trøjborg"
       },
       {
         "url": "https://aarhus.dk/media/ix1lcj2b/15102019-troejborg-bemaerkningsskema.pdf?format=noformat",
-        "name": "15.10.2019 trøjborg bemærkningsskema"
+        "name": "15.10.2019 - Bemærkningsskema - Plejehjemmet Trøjborg"
       }
     ]
   },
   {
     "name": "Vestervang 42",
+    "dbName": "Plejehjemmet Vestervang 42",
     "links": [
       {
         "url": "https://aarhus.dk/media/xt1bg35y/04-10-2023-kommunalt-tilsyn-plejehjemmet-vestervang-42.pdf?format=noformat",
-        "name": "04 10 2023 kommunalt tilsyn plejehjemmet vestervang 42"
+        "name": "04.10.2023 - Kommunalt tilsyn - Plejehjemmet Vestervang 42"
       },
       {
         "url": "https://aarhus.dk/media/ocsebvzq/28092022-kommunalt-tilsyn-distrikt-midt-oest-plejehjemmet-vestervang-42.pdf?format=noformat",
-        "name": "28.09.2022 kommunalt tilsyn, distrikt midt øst, plejehjemmet vestervang 42"
+        "name": "28.09.2022 - Kommunalt tilsyn - Plejehjemmet Vestervang 42"
       },
       {
         "url": "https://aarhus.dk/media/gyzp3rum/18032021-kommunalt-tilsyn-omraade-midt-plejehjemmet-vestervang-42.pdf?format=noformat",
-        "name": "18.03.2021 kommunalt tilsyn område midt,  plejehjemmet vestervang 42"
+        "name": "18.03.2021 - Kommunalt tilsyn - Plejehjemmet Vestervang 42"
       },
       {
         "url": "https://aarhus.dk/media/gtlmujxs/15072020-kommunalt-tilsyn-omraade-midt-plejehjemmet-vestervang-42.pdf?format=noformat",
-        "name": "15.07.2020 kommunalt tilsyn område midt, plejehjemmet vestervang 42"
+        "name": "15.07.2020 - Kommunalt tilsyn - Plejehjemmet Vestervang 42"
       }
     ]
   },
   {
     "name": "Vestervang 44",
+    "dbName": "Plejehjemmet Vestervang 44",
     "links": [
       {
+        "url": "https://aarhus.dk/media/2ildmcph/05112024-kommunalt-tilsyn-plejehjemmet-vestervang-44.pdf?format=noformat",
+        "name": "05.11.2024 - Kommunalt tilsyn - Plejehjemmet Vestervang 44"
+      },
+      {
+        "url": "https://aarhus.dk/media/dnhaqun4/05092024-stps-sundhedsfagligt-tilsyn-plejehjem-vestervang.pdf?format=noformat",
+        "name": "05.09.2024 - STPS sundhedsfagligt tilsyn - Plejehjemmet Vestervang 44"
+      },
+      {
+        "url": "https://aarhus.dk/media/b1dlkvek/tilsynsrapport-v-v-44.pdf?format=noformat",
+        "name": "26.03.2024 - STPS sundhedsfagligt tilsyn - Plejehjemmet Vestervang 44"
+      },
+      {
+        "url": "https://aarhus.dk/media/dg3gsl5u/endeligt-resume-til-offentliggoerelse-v-v-44.pdf?format=noformat",
+        "name": "26.03.2024 - STPS sundhedsfagligt tilsyn Påbud - Plejehjemmet Vestervang 44"
+      },
+      {
         "url": "https://aarhus.dk/media/0m0dzr3d/10-03-2023-kommunalt-tilsyn-vestervang-44.pdf?format=noformat",
-        "name": "10 03 2023 kommunalt tilsyn vestervang 44"
+        "name": "10.03.2023 - Kommunalt tilsyn - Plejehjemmet Vestervang 44"
       },
       {
         "url": "https://aarhus.dk/media/wxqmdbhj/28092022-kommunalt-tilsyn-plejehjemmet-vestervang-44.pdf?format=noformat",
-        "name": "28.09.2022 kommunalt tilsyn, plejehjemmet vestervang 44"
+        "name": "28.09.2022 - Kommunalt tilsyn - Plejehjemmet Vestervang 44"
       },
       {
         "url": "https://aarhus.dk/media/cauj33gs/24032021-kommunalt-tilsyn-omraade-midt-plejehjemmet-vestervang-44.pdf?format=noformat",
-        "name": "24.03.2021 kommunalt tilsyn område midt, plejehjemmet vestervang 44"
+        "name": "24.03.2021 - Kommunalt tilsyn - Plejehjemmet Vestervang 44"
       },
       {
         "url": "https://aarhus.dk/media/vkbezhld/20072020-kommunalt-tilsyn-omraade-midt-plejehjemmet-vestervang-44.pdf?format=noformat",
-        "name": "20.07.2020 kommunalt tilsyn. område midt, plejehjemmet vestervang 44"
+        "name": "20.07.2020 - Kommunalt tilsyn - Plejehjemmet Vestervang 44"
       }
     ]
   },
   {
     "name": "Abildgården",
+    "dbName": "Plejehjemmet Abildgården",
     "links": [
       {
+        "url": "https://aarhus.dk/media/zuvf0bge/18062024-kommunalt-tilsyn-plejehjemmet-abildgaarden.pdf?format=noformat",
+        "name": "18.06.2024 - Kommunalt tilsyn - Plejehjemmet Abildgården"
+      },
+      {
         "url": "https://aarhus.dk/media/04cb5zly/06-06-2023-abildgaarden-insulin.pdf?format=noformat",
-        "name": "06 06 2023 abildgården insulin"
+        "name": "06.06.2023 - STPS sundhedsfagligt tilsyn insulin- Plejehjemmet Abildgården"
       },
       {
         "url": "https://aarhus.dk/media/vjbfriaf/19-04-2023-kommunalt-tilsyn-abildgaarden.pdf?format=noformat",
-        "name": "19-04-2023 - kommunalt tilsyn - abildgården.pdf"
+        "name": "19.04.2023 - Kommunalt tilsyn - Plejehjemmet Abildgården"
       },
       {
         "url": "https://aarhus.dk/media/2m2pzucu/internt-laeringsbesoeg-abildgaarden-7922.pdf?format=noformat",
-        "name": "Internt læringsbesøg abildgården 7.9.22.pdf"
+        "name": "07.09.2022 - Internt læringsbesøg- Plejehjemmet Abildgården"
       },
       {
         "url": "https://aarhus.dk/media/l3lnklxy/03082021-kommunalt-tilsyn-distrikt-nord-plejehjemmet-abildgaarden.pdf?format=noformat",
-        "name": "03.08.2021 kommunalt tilsyn distrikt nord, plejehjemmet abildgården"
+        "name": "03.08.2021 - Kommunalt tilsyn - Plejehjemmet Abildgården"
       },
       {
         "url": "https://aarhus.dk/media/2ekob1u3/18022021-kommunalt-tilsyn-omraade-christiansbjerg-plejehjemmet-abildgaarden.pdf?format=noformat",
-        "name": "18.02.2021  kommunalt tilsyn område christiansbjerg, plejehjemmet abildgården"
+        "name": "18.02.2021 - Kommunalt tilsyn - Plejehjemmet Abildgården"
       },
       {
         "url": "https://aarhus.dk/media/b0wdmbwm/19112020-kommunalt-tilsyn-plejehjemmet-abildgaarden-omraade-christiansbjerg.pdf?format=noformat",
-        "name": "19.11.2020 kommunalt tilsyn, plejehjemmet abildgården, område christiansbjerg"
+        "name": "19.11.2020 - Kommunalt tilsyn - Plejehjemmet Abildgården"
       },
       {
         "url": "https://aarhus.dk/media/uk3jrcor/08102019-abildgaarden-bemaerkningsskema.pdf?format=noformat",
-        "name": "08.10.2019 abildgården, bemærkningsskema"
+        "name": "08.10.2019 - Bemærkningsskema - Plejehjemmet Abildgården"
       },
       {
         "url": "https://aarhus.dk/media/25bnngx1/08102019-abildgaarden-notat.pdf?format=noformat",
-        "name": "08.10.2019 abildgården, notat"
+        "name": "08.10.2019 - Notat - Plejehjemmet Abildgården"
       }
     ]
   },
   {
     "name": "Bjerggården",
+    "dbName": "Plejehjemmet Bjerggården",
     "links": [
       {
+        "url": "https://aarhus.dk/media/zvwj4kiy/15052024-kommunalt-tilsyn-plejehjemmet-bjerggaarden.pdf?format=noformat",
+        "name": "15.05.2024 - Kommunalt tilsyn - Plejehjemmet Bjerggården"
+      },
+      {
         "url": "https://aarhus.dk/media/cjwnt0oa/18123-internt-laeringsbesoeg-bjerggaarden.pdf?format=noformat",
-        "name": "18.1.23 internt læringsbesøg bjerggården"
+        "name": "18.01.2023 - Internt læringsbesøg - Plejehjemmet Bjerggården"
       },
       {
         "url": "https://aarhus.dk/media/fk2fgcno/21092022-kommunalt-tilsyn-plejehjemmet-bjergga-rden.pdf?format=noformat",
-        "name": "21.09.2022 kommunalt tilsyn, plejehjemmet bjerggården"
+        "name": "21.09.2022 - Kommunalt tilsyn - Plejehjemmet Bjerggården"
       },
       {
         "url": "https://aarhus.dk/media/vpfpqc4s/11112021-kommunalt-tilsyn-distrikt-nord-plejehjemmet-bjerggaarden.pdf?format=noformat",
-        "name": "11.11.2021 kommunalt tilsyn distrikt nord, plejehjemmet bjerggården"
+        "name": "11.11.2021 - Kommunalt tilsyn - Plejehjemmet Bjerggården"
       },
       {
         "url": "https://aarhus.dk/media/lysl0fg0/10112020-kommunalt-tilsyn-omraade-christiansbjerg-plejehjemmet-bjerggaarden.pdf?format=noformat",
-        "name": "10.11.2020 kommunalt tilsyn område christiansbjerg, plejehjemmet bjerggården"
+        "name": "10.11.2020 - Kommunalt tilsyn - Plejehjemmet Bjerggården"
       },
       {
         "url": "https://aarhus.dk/media/3p2jpdws/10112020-kommunalt-tilsyn-omraade-christiansbjerg-plejehjemmet-bjerggaarden.pdf?format=noformat",
-        "name": "10.11.2020 kommunalt tilsyn område christiansbjerg. plejehjemmet bjerggården"
+        "name": "10.11.2020 - Kommunalt tilsyn - Plejehjemmet Bjerggården (1)"
       },
       {
         "url": "https://aarhus.dk/media/k4vhrhnm/19092019-bjerggaarden-notat.pdf?format=noformat",
-        "name": "19.09.2019 bjerggården  notat"
+        "name": "19.09.2019 - Notat - Plejehjemmet Bjerggården"
       },
       {
         "url": "https://aarhus.dk/media/o4pdvfok/19092019-bjerggaarden-bemaerkningsskema.pdf?format=noformat",
-        "name": "19.09.2019  bjerggården bemærkningsskema"
+        "name": "19.09.2019 - Bemærkningsskema - Plejehjemmet Bjerggården"
       }
     ]
   },
   {
     "name": "Bjørnshøj",
+    "dbName": "Plejehjemmet Bjørnshøj",
     "links": [
       {
+        "url": "https://aarhus.dk/media/bg0ht1gw/02102024-kommunalt-tilsyn-plejehjemmet-bjoernshoej.pdf?format=noformat",
+        "name": "02.10.2024 - Kommunalt tilsyn - Plejehjemmet Bjørnshøj"
+      },
+      {
         "url": "https://aarhus.dk/media/wksorcfj/2023-03-15-internt-laeringsbesoeg-bjoernshoej.pdf?format=noformat",
-        "name": "2023-03-15 - internt læringsbesøg - bjørnshøj.pdf"
+        "name": "15.03.2023 - Internt læringsbesøg - Plejehjemmet Bjørnshøj"
       },
       {
         "url": "https://aarhus.dk/media/br3bcs32/25102022-kommunalt-tilsyn-plejehjemmet-bjoernshoej-distrikt-nord.pdf?format=noformat",
-        "name": "25.10.2022 kommunalt tilsyn, plejehjemmet bjørnshøj, distrikt nord"
+        "name": "25.10.2022 - Kommunalt tilsyn - Plejehjemmet Bjørnshøj"
       },
       {
         "url": "https://aarhus.dk/media/a4rkyfwe/29032022-stps-sundhedsfagligt-tilsyn-plejehjemmet-bjoernshoej.pdf?format=noformat",
-        "name": "29.03.2022 stps sundhedsfagligt tilsyn, plejehjemmet bjørnshøj"
+        "name": "29.03.2022 - STPS sundhedsfagligt tilsyn - Plejehjemmet Bjørnshøj"
       },
       {
         "url": "https://aarhus.dk/media/mu1mzw3o/16122021-kommunalt-opfoelgende-tilsyn-distrikt-nord-plejehjemmet-bjoernshoej.pdf?format=noformat",
-        "name": "16.12.2021 kommunalt opfølgende tilsyn distrikt nord, plejehjemmet bjørnshøj"
+        "name": "16.12.2021 - Kommunalt opfølgende tilsyn - Plejehjemmet Bjørnshøj"
       },
       {
         "url": "https://aarhus.dk/media/xringpnn/07092021-kommunalt-tilsyn-distrikt-nord-plejehjemmet-bjoernshoej.pdf?format=noformat",
-        "name": "07.09.2021 kommunalt tilsyn distrikt nord, plejehjemmet bjørnshøj"
+        "name": "07.09.2021 - Kommunalt tilsyn - Plejehjemmet Bjørnshøj"
       },
       {
         "url": "https://aarhus.dk/media/0loir3de/01122020-opfoelgende-kommunalt-tilsyn-plejehjemmet-bjoernshoej-omraade-nord.pdf?format=noformat",
-        "name": "01.12.2020 opfølgende kommunalt tilsyn, plejehjemmet bjørnshøj, område nord"
+        "name": "01.12.2020 - Kommunalt tilsyn - Plejehjemmet Bjørnshøj"
       },
       {
         "url": "https://aarhus.dk/media/drwnyqf0/13102020-kommunalt-tilsyn-omraade-nord-plejehjemmet-bjoernshoej.pdf?format=noformat",
-        "name": "13.10.2020 kommunalt tilsyn område nord, plejehjemmet bjørnshøj"
+        "name": "13.10.2020 - Kommunalt tilsyn - Plejehjemmet Bjørnshøj"
       }
     ]
   },
   {
     "name": "Havkær",
+    "dbName": "Plejehjemmet Havkær",
     "links": [
       {
         "url": "https://aarhus.dk/media/qsjpglby/1710-2023-kommunalt-tilsyn-plejehjemmet-havkaer.pdf?format=noformat",
-        "name": "17.10-2023 - kommunalt tilsyn plejehjemmet havkær"
+        "name": "17.10.2023 - Kommunalt tilsyn - Plejehjemmet Havkær"
       },
       {
         "url": "https://aarhus.dk/media/3smhrcmv/07122022-kommunalt-tilsyn-plejehjemmet-havkaer.pdf?format=noformat",
-        "name": "07.12.2022 kommunalt tilsyn, plejehjemmet havkær"
+        "name": "07.12.2022 - Kommunalt tilsyn - Plejehjemmet Havkær"
       },
       {
         "url": "https://aarhus.dk/media/mvpjm4sx/17082021-kommunalt-opfoelgende-tilsyn-no-2-distrikt-nord-plejehjemmet-havkaer.pdf?format=noformat",
-        "name": "17.08.2021 kommunalt opfølgende tilsyn no. 2, distrikt nord, plejehjemmet havkær"
+        "name": "17.08.2021 - Kommunalt opfølgende tilsyn no. 2 - Plejehjemmet Havkær"
       },
       {
         "url": "https://aarhus.dk/media/tg0fwpar/20052021-kommunalt-opfoelgende-tilsyn-no-1-omraade-vest-plejehjemmet-havkaer.pdf?format=noformat",
-        "name": "20.05.2021 kommunalt opfølgende tilsyn no. 1, område vest, plejehjemmet havkær"
+        "name": "20.05.2021 - Kommunalt opfølgende tilsyn no. 1 - Plejehjemmet Havkær"
       },
       {
         "url": "https://aarhus.dk/media/xvxhs4oy/24022021-kommunalt-tilsyn-omraade-vest-plejehjemmet-havkaer.pdf?format=noformat",
-        "name": "24.02.2021 kommunalt tilsyn område vest, plejehjemmet havkær"
+        "name": "24.02.2021 - Kommunalt tilsyn - Plejehjemmet Havkær"
       },
       {
         "url": "https://aarhus.dk/media/xhgjgsq1/13022020-kommunalt-tilsyn-plejehjemmet-havkaer-omraade-vest.pdf?format=noformat",
-        "name": "13.02.2020 kommunalt tilsyn, plejehjemmet havkær, område vest"
+        "name": "13.02.2020 - Kommunalt tilsyn - Plejehjemmet Havkær"
       }
     ]
   },
   {
     "name": "Hedevej",
+    "dbName": "Plejehjemmet Hedevej",
     "links": [
       {
+        "url": "https://aarhus.dk/media/h40n155u/21-05-2024-plejehjemmet-hedevej-kommunalt-tilsyn.pdf?format=noformat",
+        "name": "21.05.2024 - Kommunalt tilsyn - Plejehjemmet Hedevej"
+      },
+      {
         "url": "https://aarhus.dk/media/cfxhn1h1/01032023-kommunalt-tilsyn-plejehjemmet-hedevej.pdf?format=noformat",
-        "name": "01.03.2023 kommunalt tilsyn - plejehjemmet hedevej.pdf"
+        "name": "01.03.2023 - Kommunalt tilsyn - Plejehjemmet Hedevej"
       },
       {
         "url": "https://aarhus.dk/media/ibrfyg3y/30112022-internt-laeringsbesoeg-hedevej.pdf?format=noformat",
-        "name": "30.11.2022 - internt læringsbesøg - hedevej.pdf"
+        "name": "30.11.2022 - Internt læringsbesøg - Plejehjemmet Hedevej"
       },
       {
         "url": "https://aarhus.dk/media/bi0b1txo/30112021-opfoelgende-kommunalt-tilsyn-distrikt-nord-plejehjemmet-hedevej.pdf?format=noformat",
-        "name": "30.11.2021 opfølgende kommunalt tilsyn distrikt nord, plejehjemmet hedevej"
+        "name": "30.11.2021 - Kommunalt opfølgende tilsyn - Plejehjemmet Hedevej"
       },
       {
         "url": "https://aarhus.dk/media/jrabftd2/27102021-stps-ophaevelse-af-paabud-af-6-juli-2021-distrikt-nord-plejehjemmet-hedevej.pdf?format=noformat",
-        "name": "27.10.2021. stps ophævelse af påbud af 6 juli 2021, distrikt nord, plejehjemmet hedevej"
+        "name": "27.10.2021 - STPS ophævelse af påbud af 6 juli 2021 - Plejehjemmet Hedevej"
       },
       {
         "url": "https://aarhus.dk/media/l0sazzur/04102021-stps-sundhedsfagligt-reaktivt-tilsyn-distrikt-nord-plejehjemmet-hedevej.pdf?format=noformat",
-        "name": "04.10.2021. stps sundhedsfagligt reaktivt tilsyn distrikt nord, plejehjemmet hedevej"
+        "name": "04.10.2021 - STPS sundhedsfagligt reaktivt tilsyn - Plejehjemmet Hedevej"
       },
       {
         "url": "https://aarhus.dk/media/fdjnvqzj/16082021-stps-sundhedsfagligt-tilsyn-distrikt-nord-plejehjemmet-hedevej.pdf?format=noformat",
-        "name": "16.08.2021 stps sundhedsfagligt tilsyn distrikt nord, plejehjemmet hedevej"
+        "name": "16.08.2021 - STPS sundhedsfagligt tilsyn - Plejehjemmet Hedevej"
       },
       {
         "url": "https://aarhus.dk/media/m4tp3lw5/29072021-kommunalt-tilsyn-distrikt-nord-plejehjemmet-hedevej.pdf?format=noformat",
-        "name": "29.07.2021 kommunalt tilsyn distrikt nord, plejehjemmet hedevej"
+        "name": "29.07.2021 - Kommunalt tilsyn - Plejehjemmet Hedevej"
       },
       {
         "url": "https://aarhus.dk/media/rovb3r14/27042021-stps-sundhedsfagligt-tilsyn-distrikt-nord-plejehjemmet-hedevej-paabud.pdf?format=noformat",
-        "name": "27.04.2021. stps sundhedsfagligt tilsyn distrikt nord, plejehjemmet hedevej.  påbud"
+        "name": "27.04.2021 - STPS sundhedsfagligt tilsyn påbud - Plejehjemmet Hedevej"
       },
       {
         "url": "https://aarhus.dk/media/zhskpwtb/27042021-stps-sundhedsfagligt-tilsyn-distrikt-nord-plejehjemmet-hedevej.pdf?format=noformat",
-        "name": "27.04.2021. stps sundhedsfagligt tilsyn distrikt nord, plejehjemmet hedevej"
+        "name": "27.04.2021 - STPS sundhedsfagligt tilsyn - Plejehjemmet Hedevej"
       },
       {
         "url": "https://aarhus.dk/media/jyqjrvah/08092020-kommunalt-tilsyn-omraade-nord-plejehjemmet-hedevej.pdf?format=noformat",
-        "name": "08.09.2020 kommunalt tilsyn område nord. plejehjemmet hedevej"
+        "name": "08.09.2020 - Kommunalt tilsyn - Plejehjemmet Hedevej"
       },
       {
         "url": "https://aarhus.dk/media/myrflmgq/05092019-stp-aeldretilsyn-omraade-nord-hedevej-50.pdf?format=noformat",
-        "name": "05.09.2019 stp ældretilsyn, område nord, hedevej 50"
+        "name": "05.09.2019 - STPS ældretilsyn - Plejehjemmet Hedevej"
       }
     ]
   },
   {
     "name": "Hjortshøj",
+    "dbName": "Plejehjemmet Hjortshøj",
     "links": [
       {
+        "url": "https://aarhus.dk/media/yclozkom/06052024-plejehjem-hjortshoej-internt-laeringsbesoeg.pdf?format=noformat",
+        "name": "06.05.2024 - Internt læringsbesøg - Hjortshøj"
+      },
+      {
         "url": "https://aarhus.dk/media/dndeq1sw/21-06-2023-kommunalt-tilsyn-hjortshoej.pdf?format=noformat",
-        "name": "21 06 2023 kommunalt tilsyn hjortshøj"
+        "name": "21.06.2023 - Kommunalt tilsyn - Hjortshøj"
       },
       {
         "url": "https://aarhus.dk/media/ywif03td/26102022-kommunalt-tilsyn-plejehjemmet-hjortshoej-distrikt-nord.pdf?format=noformat",
-        "name": "26.10.2022 kommunalt tilsyn, plejehjemmet hjortshøj, distrikt nord"
+        "name": "26.10.2022 - Kommunalt tilsyn - Hjortshøj"
       },
       {
         "url": "https://aarhus.dk/media/sy4hfseh/18112021-kommunalt-opfoelgende-tilsyn-distrikt-nord-plejehjemmet-hjortshoej.pdf?format=noformat",
-        "name": "18.11.2021 kommunalt opfølgende tilsyn distrikt nord, plejehjemmet hjortshøj"
+        "name": "18.11.2021 - Kommunalt opfølgende tilsyn - Hjortshøj"
       },
       {
         "url": "https://aarhus.dk/media/fcjczbsk/05082021-kommunalt-tilsyn-distrikt-nord-plejehjemmet-hjortshoej.pdf?format=noformat",
-        "name": "05.08.2021 kommunalt tilsyn distrikt nord, plejehjemmet hjortshøj"
+        "name": "05.08.2021 - Kommunalt tilsyn - Hjortshøj"
       },
       {
         "url": "https://aarhus.dk/media/rutfcubu/03112020-opfoelgende-kommunalt-tilsyn-omraade-nord-plejehjemmet-hjortshoej.pdf?format=noformat",
-        "name": "03.11.2020 opfølgende kommunalt tilsyn område nord, plejehjemmet hjortshøj"
+        "name": "03.11.2020 - Kommunalt opfølgende tilsyn - Hjortshøj"
       },
       {
         "url": "https://aarhus.dk/media/3osgb4pa/28072020-kommunalt-tilsyn-omraade-nord-plejehjemmet-hjortshoej.pdf?format=noformat",
-        "name": "28.07.2020 kommunalt tilsyn. område nord. plejehjemmet hjortshøj."
+        "name": "28.07.2020 - Kommunalt tilsyn - Hjortshøj"
       }
     ]
   },
   {
     "name": "Hørgården",
+    "dbName": "Plejehjemmet Hørgården",
     "links": [
       {
+        "url": "https://aarhus.dk/media/tw1lyzww/11122024-kommunalt-tilsyn-plejehjemmet-hoergaarden.pdf?format=noformat",
+        "name": "11.12.2024 - Kommunalt tilsyn - Hørgården"
+      },
+      {
         "url": "https://aarhus.dk/media/cyia1fne/14-11-2022-kommunalt-tilsyn-hoergaarden.pdf?format=noformat",
-        "name": "14-11-2023 - kommunalt tilsyn - hørgården"
+        "name": "14.11.2023 - Kommunalt tilsyn - Hørgården"
       },
       {
         "url": "https://aarhus.dk/media/ttudto4s/12102022-kommunalt-tilsyn-plejehjemmet-hoerga-rden.pdf?format=noformat",
-        "name": "12.10.2022 kommunalt tilsyn, plejehjemmet hørgården"
+        "name": "12.10.2022 - Kommunalt tilsyn - Hørgården"
       },
       {
         "url": "https://aarhus.dk/media/ammljt0n/21092021-opfoelgende-kommunalt-tilsyn-distrikt-nord-plejehjemmet-hoergaarden.pdf?format=noformat",
-        "name": "21.09.2021 opfølgende kommunalt tilsyn distrikt nord, plejehjemmet hørgården"
+        "name": "21.09.2021 - Kommunalt opfølgende tilsyn - Hørgården"
       },
       {
         "url": "https://aarhus.dk/media/pcumpgaq/17062021-kommunalt-tilsyn-distrikt-nord-plejehjemmet-hoergaarden.pdf?format=noformat",
-        "name": "17.06.2021 kommunalt tilsyn distrikt nord, plejehjemmet hørgården"
+        "name": "17.06.2021 - Kommunalt tilsyn - Hørgården"
       },
       {
         "url": "https://aarhus.dk/media/my2ogfbi/02032020-stps-sundhedsfagligt-tilsyn-paa-plejehjeemmet-hoergaarden.pdf?format=noformat",
-        "name": "02.03.2020 stps  sundhedsfagligt tilsyn på plejehjeemmet hørgården"
+        "name": "02.03.2020 - STPS sundhedsfagligt tilsyn - Hørgården"
       },
       {
         "url": "https://aarhus.dk/media/5fqbqya2/30092020-kommunalt-tilsyn-omraade-nord-plejehjemmet-hoergaarden.pdf?format=noformat",
-        "name": "30.09.2020 kommunalt tilsyn område nord. plejehjemmet hørgården"
+        "name": "30.09.2020 - Kommunalt tilsyn - Hørgården"
       }
     ]
   },
   {
     "name": "Jasminvej",
+    "dbName": "Plejehjemmet Jasminvej",
     "links": [
       {
+        "url": "https://aarhus.dk/media/dpufv231/18092024-kommunalt-tilsyn-plejehjemmet-jasminvej.pdf?format=noformat",
+        "name": "18.09.2024 - Kommunalt tilsyn - Jasminvej"
+      },
+      {
         "url": "https://aarhus.dk/media/uqsd3gy0/20092023-kommunalt-tilsyn-jasminvejpdf.pdf?format=noformat",
-        "name": "20.09.2023 - kommunalt tilsyn - jasminvej.pdf"
+        "name": "20.09.2023 - Kommunalt tilsyn - Jasminvej"
       },
       {
         "url": "https://aarhus.dk/media/ly1mcp24/12102022-kommunalt-tilsyn-plejehjemmet-jasminvej.pdf?format=noformat",
-        "name": "12.10.2022 kommunalt tilsyn, plejehjemmet jasminvej"
+        "name": "12.10.2022 - Kommunalt tilsyn - Jasminvej"
       },
       {
         "url": "https://aarhus.dk/media/yuuigp4s/03022022-stps-sundhedsfagligt-tilsyn-distrikt-nord-plejehjemmet-jasminvej.pdf?format=noformat",
-        "name": "03.02.2022 stps sundhedsfagligt tilsyn, distrikt nord, plejehjemmet jasminvej"
+        "name": "03.02.2022 - STPS sundhedsfagligt tilsyn - Jasminvej"
       },
       {
         "url": "https://aarhus.dk/media/rvchefpb/09092021-kommunalt-tilsyn-distrikt-nord-plejehjemmet-jasminvej.pdf?format=noformat",
-        "name": "09.09.2021 kommunalt tilsyn distrikt nord, plejehjemmet jasminvej"
+        "name": "09.09.2021 - Kommunalt tilsyn - Jasminvej"
       },
       {
         "url": "https://aarhus.dk/media/q2pn0d5r/20082020-kommunalt-tilsyn-omraade-nord-plejehjemmet-jasminvej.pdf?format=noformat",
-        "name": "20.08.2020 kommunalt tilsyn område nord. plejehjemmet jasminvej"
+        "name": "20.08.2020 - Kommunalt tilsyn - Jasminvej"
       },
       {
         "url": "https://aarhus.dk/media/iqhex20y/20092023-kommunalt-tilsyn-jasminvej.pdf?format=noformat",
-        "name": "20.09.2023 kommunalt tilsyn jasminvej"
+        "name": "20.09.2023 - Kommunalt tilsyn - Jasminvej (1)"
       }
     ]
   },
   {
     "name": "Lotus",
+    "dbName": "Plejehjemmet Lotus",
     "links": [
       {
+        "url": "https://aarhus.dk/media/2s2de3nm/12112024-kommunalt-tilsyn-plejehjemmet-lotus.pdf?format=noformat",
+        "name": "12.11.2024 - Kommunalt tilsyn - Plejehjemmet Lotus"
+      },
+      {
         "url": "https://aarhus.dk/media/mdcmwgco/16082023-kommunalt-tilsyn-plejehjemmet-lotus.pdf?format=noformat",
-        "name": "16.08.2023 kommunalt tilsyn plejehjemmet lotus"
+        "name": "16.08.2023 - Kommunalt tilsyn - Plejehjemmet Lotus"
       },
       {
         "url": "https://aarhus.dk/media/so5pulwq/internt-laeringsbesoeg-plejehjemmet-lotus-d-51222.pdf?format=noformat",
-        "name": "Internt læringsbesøg plejehjemmet lotus d. 5.12.22.pdf"
+        "name": "05.12.2022 - Internt læringsbesøg - Plejehjemmet Lotus"
       },
       {
         "url": "https://aarhus.dk/media/30yp0qnk/08042021-kommunalt-tilsyn-omraade-vest-plejehjemmet-lotus.pdf?format=noformat",
-        "name": "08.04.2021 kommunalt tilsyn område vest, plejehjemmet lotus"
+        "name": "08.04.2021 - Kommunalt tilsyn - Plejehjemmet Lotus"
       },
       {
         "url": "https://aarhus.dk/media/fztisgc0/08062020-kommunalt-tilsyn-omraade-vest-plejehjemmet-lotus.pdf?format=noformat",
-        "name": "08.06.2020 kommunalt tilsyn, område vest, plejehjemmet lotus"
+        "name": "08.06.2020 - Kommunalt tilsyn - Plejehjemmet Lotus"
       }
     ]
   },
   {
     "name": "Sabro",
+    "dbName": "Plejehjemmet Sabro",
     "links": [
       {
+        "url": "https://aarhus.dk/media/hnsjgtmn/30102024-kommunalt-tilsyn-plejehjemmet-sabro.pdf?format=noformat",
+        "name": "30.10.2024 - Kommunalt tilsyn - Plejehjemmet Sabro"
+      },
+      {
         "url": "https://aarhus.dk/media/hrxlmvoa/1309-2023-kommunalt-tilsyn-plejehjemmet-sabropdf.pdf?format=noformat",
-        "name": "13.09-2023 - kommunalt tilsyn - plejehjemmet sabro.pdf"
+        "name": "13.09.2023 - Kommunalt tilsyn - Plejehjemmet Sabro"
       },
       {
         "url": "https://aarhus.dk/media/2k0dhjor/07122022-kommunalt-tilsyn-plejehjemmet-sabro.pdf?format=noformat",
-        "name": "07.12.2022 kommunalt tilsyn, plejehjemmet sabro"
+        "name": "07.12.2022 - Kommunalt tilsyn - Plejehjemmet Sabro"
       },
       {
         "url": "https://aarhus.dk/media/spwgmeyu/06122021-stps-sundhedsfagligt-tilsyn-distrikt-nord-plejehjemmet-sabro.pdf?format=noformat",
-        "name": "06.12.2021 stps sundhedsfagligt tilsyn distrikt nord, plejehjemmet sabro"
+        "name": "06.12.2021 - STPS sundhedsfagligt tilsyn - Plejehjemmet Sabro"
       },
       {
         "url": "https://aarhus.dk/media/j4vfitjs/22022021-kommunalt-tilsyn-omraade-vest-plejehjemmet-sabro.pdf?format=noformat",
-        "name": "22.02.2021  kommunalt tilsyn område vest, plejehjemmet sabro"
+        "name": "22.02.2021 - Kommunalt tilsyn - Plejehjemmet Sabro"
       },
       {
         "url": "https://aarhus.dk/media/dzvfifyv/06022020-kommunalt-tilsyn-omraade-vest-plejehjemmet-sabro.pdf?format=noformat",
-        "name": "06.02.2020 kommunalt tilsyn, område vest, plejehjemmet sabro"
+        "name": "06.02.2020 - Kommunalt tilsyn - Plejehjemmet Sabro"
       }
     ]
   },
   {
     "name": "Skelager",
+    "dbName": "Plejehjemmet Skelager",
     "links": [
       {
+        "url": "https://aarhus.dk/media/0jgbngnx/15-05-2024-internt-laeringsbesoeg-plejehjemmet-skelager.pdf?format=noformat",
+        "name": "15.05.2024 - Internt læringsbesøg - Plejehjemmet Skelager"
+      },
+      {
         "url": "https://aarhus.dk/media/00phcgaq/16022023-stps-sundhedsfagligt-tilsyn-distrikt-nord-plejehjemmet-skelager.pdf?format=noformat",
-        "name": "16.02.2023 stps sundhedsfagligt tilsyn, distrikt nord, plejehjemmet skelager"
+        "name": "16.02.2023 - STPS sundhedsfagligt tilsyn - Plejehjemmet Skelager"
       },
       {
         "url": "https://aarhus.dk/media/iafn00xg/200223-internt-laeringsbesoeg-skelager.pdf?format=noformat",
-        "name": "20.02.23 - internt læringsbesøg - skelager.pdf"
+        "name": "20.02.23 - Internt læringsbesøg - Plejehjemmet Skelager"
       },
       {
         "url": "https://aarhus.dk/media/f1umrxss/skelager-22092022-resume-til-offentliggoerelse.pdf?format=noformat",
-        "name": "Skelager 22.09.2022 resumé til offentliggørelse.pdf"
+        "name": "22.09.2022 - Resumé til offentliggørelse - Plejehjemmet Skelager"
       },
       {
         "url": "https://aarhus.dk/media/f0epz4jj/22092022-stps-sundhedsfagligt-tilsyn-distrikt-nord-plejehjemmet-skelager-resume-og-paabud.pdf?format=noformat",
-        "name": "22.09.2022  stps  sundhedsfagligt tilsyn distrikt nord, plejehjemmet skelager. resume´og påbud"
+        "name": "22.09.2022 - STPS sundhedsfagligt tilsyn, resume og påbud -  Plejehjemmet Skelager"
       },
       {
         "url": "https://aarhus.dk/media/kxsdoqpq/22092022-stps-sundhedsfagligt-tilsyn-distrikt-nord-plejehjemmet-skelager.pdf?format=noformat",
-        "name": "22.09.2022 stps sundhedsfagligt tilsyn, distrikt nord, plejehjemmet skelager"
+        "name": "22.09.2022 - STPS sundhedsfagligt tilsyn - Plejehjemmet Skelager"
       },
       {
         "url": "https://aarhus.dk/media/zndeio0x/14092022-kommunalt-tilsyn-plejehjemmet-skelager.pdf?format=noformat",
-        "name": "14.09.2022 kommunalt tilsyn, plejehjemmet skelager"
+        "name": "14.09.2022 - Kommunalt tilsyn - Plejehjemmet Skelager"
       },
       {
         "url": "https://aarhus.dk/media/plya1nhd/28102021-kommunalt-tilsyn-distrikt-nord-plejehjemmet-skelager.pdf?format=noformat",
-        "name": "28.10.2021 kommunalt tilsyn distrikt nord, plejehjemmet skelager"
+        "name": "28.10.2021 - Kommunalt tilsyn - Plejehjemmet Skelager"
       },
       {
         "url": "https://aarhus.dk/media/zdfjr4rd/16032021-stps-reaktivt-aeldretilsyn-omraade-christiansbjerg-plejehjemmet-skelager.pdf?format=noformat",
-        "name": "16.03.2021 stps  reaktivt ældretilsyn område christiansbjerg, plejehjemmet skelager"
+        "name": "16.03.2021 - STPS reaktivt ældretilsyn - Plejehjemmet Skelager"
       },
       {
         "url": "https://aarhus.dk/media/l5zbzmr3/24112020-kommunalt-tilsyn-omraade-christiansbjerg-plejehjemmet-skelager.pdf?format=noformat",
-        "name": "24.11.2020 kommunalt tilsyn. område christiansbjerg, plejehjemmet skelager"
+        "name": "24.11.2020 - Kommunalt tilsyn - Plejehjemmet Skelager"
       },
       {
         "url": "https://aarhus.dk/media/f0yelb11/24092019-skelager-bemaerkningsskema.pdf?format=noformat",
-        "name": "24.09.2019 skelager  bemærkningsskema"
+        "name": "24.09.2019 - Bemærkningsskema - Plejehjemmet Skelager"
       },
       {
         "url": "https://aarhus.dk/media/x4ujenxh/24092019-skelager-notat.pdf?format=noformat",
-        "name": "24.09.2019 skelager  notat"
+        "name": "24.09.2019 - Notat - Plejehjemmet Skelager"
       }
     ]
   },
   {
     "name": "Skæring",
+    "dbName": "Plejehjemmet Skæring",
     "links": [
       {
+        "url": "https://aarhus.dk/media/du5hleoo/13112024-kommunalt-tilsyn-plejehjemmet-skaering.pdf?format=noformat",
+        "name": "13.11.2024 - Kommunalt tilsyn - Plejehjemmet Skæring"
+      },
+      {
         "url": "https://aarhus.dk/media/bjzhb2zi/25-01-2024-plejehjem-skaering-medicinhaandtering.pdf?format=noformat",
-        "name": "25-01-2024 plejehjem skæring medicinhåndtering stps"
+        "name": "25.01.2024 - STPS medicinhåndtering - Plejehjem Skæring"
       },
       {
         "url": "https://aarhus.dk/media/f0do1a1c/1810-2023-kommunalt-tilsyn-skaering-plejehjem.pdf?format=noformat",
-        "name": "18.10 2023 kommunalt tilsyn skæring plejehjem"
+        "name": "18.10.2023 - Kommunalt tilsyn - Plejehjem Skæring"
       },
       {
         "url": "https://aarhus.dk/media/ncufdahv/21122022-tilsynsrapport-skaering-plejehjem.pdf?format=noformat",
-        "name": "21.12.2022 tilsynsrapport skæring plejehjem.pdf"
+        "name": "21.12.2022 - Kommunalt tilsyn- Plejehjem Skæring"
       },
       {
         "url": "https://aarhus.dk/media/5bdmux1v/31082021-kommunalt-tilsyn-distrikt-nord-plejehjemmet-skaering.pdf?format=noformat",
-        "name": "31.08.2021 kommunalt tilsyn distrikt nord, plejehjemmet skæring"
+        "name": "31.08.2021 - Kommunalt tilsyn - Plejehjem Skæring"
       },
       {
         "url": "https://aarhus.dk/media/uhdplxuk/20102020-stps-aeldretilsyn-omraade-nord-plejehjemmet-skaering.pdf?format=noformat",
-        "name": "20.10.2020 stps. ældretilsyn. område nord, plejehjemmet skæring."
+        "name": "20.10.2020 - STPS ældretilsyn - Plejehjem Skæring"
       },
       {
         "url": "https://aarhus.dk/media/4xqnmv3u/20102020-stps-sundhedsfagligt-tilsyn-omraade-nord-plejehjemmet-skaering.pdf?format=noformat",
-        "name": "20.10.2020 stps. sundhedsfagligt tilsyn område nord, plejehjemmet skæring"
+        "name": "20.10.2020 - STPS sundhedsfagligt tilsyn - Plejehjem Skæring"
       },
       {
         "url": "https://aarhus.dk/media/rqag5kvy/24082020-kommunalt-tilsyn-omraade-nord-plejehjemmet-skaering.pdf?format=noformat",
-        "name": "24.08.2020 kommunalt tilsyn område nord. plejehjemmet skæring"
+        "name": "24.08.2020 - Kommunalt tilsyn - Plejehjem Skæring"
       }
     ]
   },
   {
     "name": "Sønderskovhus",
+    "dbName": "Plejehjemmet Sønderskovhus",
     "links": [
       {
         "url": "https://aarhus.dk/media/qi3d2z3l/29-11-2023-kommunalt-tilsyn-soenderskovhus.pdf?format=noformat",
-        "name": "29-11-2023 - kommunalt tilsyn - sønderskovhus"
+        "name": "29.11.2023 - Kommunalt tilsyn - Plejehjemmet Sønderskovhus"
       },
       {
         "url": "https://aarhus.dk/media/a35dfeet/01112022-kommunalt-tilsyn-soenderskovhus-plejehjem.pdf?format=noformat",
-        "name": "01.11.2022 kommunalt tilsyn, sønderskovhus plejehjem"
+        "name": "01.11.2022 - Kommunalt tilsyn - Plejehjemmet Sønderskovhus"
       },
       {
         "url": "https://aarhus.dk/media/aqqbcmif/08072021-distrikt-nord-plejehjemmet-soenderskovhus.pdf?format=noformat",
-        "name": "08.07.2021 distrikt nord, plejehjemmet sønderskovhus"
+        "name": "08.07.2021 - Kommunalt tilsyn - Plejehjemmet Sønderskovhus"
       },
       {
         "url": "https://aarhus.dk/media/ff3eej2z/15102020-kommunalt-tilsyn-omraade-nord-plejehjemmet-soenderskovhus.pdf?format=noformat",
-        "name": "15.10.2020 kommunalt tilsyn. område nord. plejehjemmet sønderskovhus"
+        "name": "15.10.2020 - Kommunalt tilsyn - Plejehjemmet Sønderskovhus"
       }
     ]
   },
   {
     "name": "Vejlbygade",
+    "dbName": "Plejehjemmet Vejlbygade",
     "links": [
       {
+        "url": "https://aarhus.dk/media/hzwpwuxu/28-05-2024-plejehjemmet-vejlbygade-kommunalt-tilsyn.pdf?format=noformat",
+        "name": "28.05.2024 - Kommunalt tilsyn - Plejehjemmet Vejlbygade"
+      },
+      {
         "url": "https://aarhus.dk/media/idtp4f0q/31-08-2023-stps-sundhedsfagligt-tilsyn-vejlbygade.pdf?format=noformat",
-        "name": "31.08.2023 STPS Sundhedsfagligt tilsyn Distrikt Midt Øst, plejehjemmet Vejlbygade 7A"
+        "name": "31.08.2023 - STPS sundhedsfagligt tilsyn - Plejehjemmet Vejlbygade"
       },
       {
         "url": "https://aarhus.dk/media/p5sjlq1s/internt-laeringsbesoeg-vejlbygade-17423.pdf?format=noformat",
-        "name": "Internt læringsbesøg vejlbygade 17.4.23.pdf"
-      },
-      {
-        "url": "https://aarhus.dk/media/gvqhv0vd/internt-laeringsbesoeg-vejlbygade-17822.pdf?format=noformat",
-        "name": "Internt læringsbesøg vejlbygade 17.8.22.pdf"
+        "name": "18.04.2023 - Internt læringsbesøg - Plejehjemmet Vejlbygade"
       },
       {
         "url": "https://aarhus.dk/media/ltfhnpqy/25112021-opfoelgende-kommunalt-tilsyn-plejehjemmet-vejlbygade-7a-9-9a-distrikt-nord.pdf?format=noformat",
-        "name": "25.11.2021 opfølgende kommunalt tilsyn, plejehjemmet vejlbygade 7a, 9, 9a, distrikt nord"
+        "name": "25.11.2021 - Kommunalt opfølgende tilsyn - Plejehjemmet Vejlbygade"
       },
       {
         "url": "https://aarhus.dk/media/pwahutat/22072021-kommunalt-tilsyn-plejehjemmet-vejlbygade-7a-9-9a-distrikt-nord.pdf?format=noformat",
-        "name": "22.07.2021 kommunalt tilsyn, plejehjemmet vejlbygade 7a, 9, 9a, distrikt nord"
+        "name": "22.07.2021 - Kommunalt tilsyn - Plejehjemmet Vejlbygade"
       },
       {
         "url": "https://aarhus.dk/media/qipeafyy/22102020-kommunalt-tilsyn-plejehjemmet-vejlbygade-7a-9-9a-omraade-christiansbjerg.pdf?format=noformat",
-        "name": "22.10.2020 kommunalt tilsyn, plejehjemmet vejlbygade 7a, 9, 9a, område christiansbjerg"
+        "name": "22.10.2020 - Kommunalt tilsyn - Plejehjemmet Vejlbygade"
       },
       {
         "url": "https://aarhus.dk/media/wyakmvwp/29102019-vejlby-7-7a-9-notat.pdf?format=noformat",
-        "name": "29.10.2019 vejlby 7, 7a & 9, notat"
+        "name": "29.10.2019 - Notat - Vejlby"
       },
       {
         "url": "https://aarhus.dk/media/12wbdr2f/29102019-vejlby-7-7a-9-bemaerkningsskema.pdf?format=noformat",
-        "name": "29.10.2019 vejlby 7, 7a & 9, bemærkningsskema"
+        "name": "29.10.2019 - Bemærkningsskema - Vejlby"
       }
     ]
   },
   {
     "name": "Borgvold",
+    "dbName": "Plejehjemmet Borgvold",
     "links": [
       {
+        "url": "https://aarhus.dk/media/bekjfqan/08012025-kommunalt-tilsyn-plejehjemmet-borgvold.pdf?format=noformat",
+        "name": "08.01.2025 - kommunalt tilsyn - plejehjemmet borgvold"
+      },
+      {
         "url": "https://aarhus.dk/media/xpxhe4bb/15032023-kommunalt-tilsyn-borgvold.pdf?format=noformat",
-        "name": "15.03.2023 - kommunalt tilsyn - borgvold.pdf"
+        "name": "15.03.2023 - Kommunalt tilsyn - Borgvold"
       },
       {
         "url": "https://aarhus.dk/media/hpebci4u/internt-laeringsbesoeg-borgvold-d-21922.pdf?format=noformat",
-        "name": "Internt læringsbesøg borgvold d. 21.9.22.pdf"
+        "name": "21.09.2022 - Internt læringsbesøg - Borgvold"
       },
       {
         "url": "https://aarhus.dk/media/1cgdprsm/23112021-kommunalt-opfoelgende-anmeldt-tilsyn-distrikt-syd-plejehjemmet-borgvold.pdf?format=noformat",
-        "name": "23.11.2021 kommunalt opfølgende anmeldt tilsyn distrikt syd, plejehjemmet borgvold"
+        "name": "23.11.2021 - Kommunalt opfølgende anmeldt tilsyn - Borgvold"
       },
       {
         "url": "https://aarhus.dk/media/vkrdadqz/18052021-stps-sundhedsfagligt-tilsyn-distrikt-syd-plejehjemmet-borgvold.pdf?format=noformat",
-        "name": "18.05.2021. stps sundhedsfagligt tilsyn, distrikt syd, plejehjemmet borgvold"
-      },
-      {
-        "url": "https://aarhus.dk/media/kobdumm2/24082021-kommunalt-tilsyn-distrikt-syd-plejehjemmet-borgvold.pdf?format=noformat",
-        "name": "24.08.2021 kommunalt tilsyn distrikt syd, plejehjemmet borgvold"
+        "name": "18.05.2021 - STPS sundhedsfagligt tilsyn - Borgvold"
       },
       {
         "url": "https://aarhus.dk/media/fxbbxjna/24062020-omraade-viby-hoejbjerg-plejehjemmet-borgvold.pdf?format=noformat",
-        "name": "24.06.2020 område viby-højbjerg. plejehjemmet borgvold"
+        "name": "24.06.2020 - Kommunalt tilsyn - Borgvold"
       },
       {
         "url": "https://aarhus.dk/media/uf5bhsfq/08082019-bemaerkningsskema-borgvold.pdf?format=noformat",
-        "name": "08.08.2019 bemærkningsskema, borgvold"
+        "name": "08.08.2019 - Bemærkningsskema - Borgvold"
       },
       {
         "url": "https://aarhus.dk/media/jpcfpsah/08082019-notat-borgvold.pdf?format=noformat",
-        "name": "08.08.2019 notat, borgvold"
+        "name": "08.08.2019 - Notat - Borgvold"
+      },
+      {
+        "url": "https://aarhus.dk/media/kobdumm2/24082021-kommunalt-tilsyn-distrikt-syd-plejehjemmet-borgvold.pdf?format=noformat",
+        "name": "24.08.2021 - Kommunalt tilsyn - Borgvold"
       }
     ]
   },
   {
     "name": "Bøgeskovhus",
+    "dbName": "Bøgeskovhus, Forenede Care",
     "links": [
       {
+        "url": "https://aarhus.dk/media/yq4glb1r/08102024-kommunalt-tilsyn-plejehjemmet-boegeskovhus.pdf?format=noformat",
+        "name": "08.10.2024 - Kommunalt tilsyn - Bøgeskovhus"
+      },
+      {
         "url": "https://aarhus.dk/media/uk0fwa0x/13062023-sundhedsfagligt-reaktivt-tilsyn-boegeskovhus.pdf?format=noformat",
-        "name": "13.06.2023 sundhedsfagligt, reaktivt tilsyn bøgeskovhus"
+        "name": "13.06.2023 - STPS sundhedsfagligt reaktivt tilsyn - Bøgeskovhus"
       },
       {
         "url": "https://aarhus.dk/media/re5pptz4/internt-laeringsbesoeg-boegeskovhus-3523-v2.pdf?format=noformat",
-        "name": "Internt læringsbesøg bøgeskovhus 3.5.23 -v2.pdf"
+        "name": "03.05.2023 - Internt læringsbesøg - Bøgeskovhus"
       },
       {
         "url": "https://aarhus.dk/media/ufulovsa/internt-laeringsbesoeg-boegskovhus-d-26922.pdf?format=noformat",
-        "name": "Internt læringsbesøg bøgskovhus d. 26.9.22.pdf"
+        "name": "26.09.2022 - Internt læringsbesøg - Bøgeskovhus"
       },
       {
         "url": "https://aarhus.dk/media/hgkos0so/09022021-kommunalt-tilsyn-boegeskovhus.pdf?format=noformat",
-        "name": "09.02.2021 kommunalt tilsyn bøgeskovhus"
+        "name": "09.02.2021 - Kommunalt tilsyn - Bøgeskovhus"
       },
       {
         "url": "https://aarhus.dk/media/zv4b0hki/05112020-kommunalt-tilsyn-boegeskovhus.pdf?format=noformat",
-        "name": "05.11.2020 kommunalt tilsyn bøgeskovhus"
+        "name": "05.11.2020 - Kommunalt tilsyn - Bøgeskovhus"
       }
     ]
   },
   {
     "name": "Egely",
+    "dbName": "Plejehjemmet Egely",
     "links": [
       {
+        "url": "https://aarhus.dk/media/2y5jodef/15012025-kommunalt-tilsyn-plejehjemmet-egely.pdf?format=noformat",
+        "name": "15.01.2025 - kommunalt tilsyn - plejehjemmet egely"
+      },
+      {
+        "url": "https://aarhus.dk/media/n21l4tph/26112024-stps-sundhedsfagligt-insulin-plejehjem-egely.pdf?format=noformat",
+        "name": "26.11.2024 - STPS sundhedsfagligt tilsyn, insulin - Egely"
+      },
+      {
         "url": "https://aarhus.dk/media/t4jdqlow/24-05-2023-kommunalt-tilsyn-egely-plejehjem.pdf?format=noformat",
-        "name": "24 05 2023 kommunalt tilsyn egely plejehjem"
+        "name": "24.05.2023 - Kommunalt tilsyn - Egely"
       },
       {
         "url": "https://aarhus.dk/media/3zsi0dso/internt-laeringsbesoeg-egely-d-251022.pdf?format=noformat",
-        "name": "Internt læringsbesøg egely d. 25.10.22.pdf"
+        "name": "25.10.2022 - Internt læringsbesøg - Egely"
       },
       {
         "url": "https://aarhus.dk/media/sddhsai2/08062021-kommunalt-tilsyn-plejehjemmet-egely-distrikt-syd.pdf?format=noformat",
-        "name": "08.06.2021 kommunalt tilsyn, plejehjemmet egely, distrikt syd"
+        "name": "08.06.2021 - Kommunalt tilsyn - Egely"
       },
       {
         "url": "https://aarhus.dk/media/l1mfdmrf/22062020-kommunalt-tilsyn-plejehjemmet-egely-omraade-viby-hoejbjerg.pdf?format=noformat",
-        "name": "22.06.2020 kommunalt tilsyn, plejehjemmet egely, område viby-højbjerg"
+        "name": "22.06.2020 - Kommunalt tilsyn - Egely"
       },
       {
         "url": "https://aarhus.dk/media/5dlfs4id/06082019-notat-plejehjemmet-egely.pdf?format=noformat",
-        "name": "06.08.2019 notat, plejehjemmet egely"
+        "name": "06.08.2019 - Notat - Egely"
       },
       {
         "url": "https://aarhus.dk/media/qcpe0egn/06082019-bemaerkningsskema-plejehjemmet-egely.pdf?format=noformat",
-        "name": "06.08.2019 bemærkningsskema, plejehjemmet egely"
+        "name": "06.08.2019 - Bemærkningsskema - Egely"
       }
     ]
   },
   {
     "name": "Hestehavehusene",
+    "dbName": "Plejehjemmet Hestehavehusene",
     "links": [
       {
+        "url": "https://aarhus.dk/media/xhtckz43/23082024-kommunalt-tilsyn-plejehjemmet-hestehavehusene.pdf?format=noformat",
+        "name": "23.08.2024 - Kommunalt tilsyn - Hestehavehusene"
+      },
+      {
         "url": "https://aarhus.dk/media/icgbxjtq/10052023-komunalt-tilsyn-plejehjemmet-hesthavehusene.pdf?format=noformat",
-        "name": "10.05.2023 - kommunalt tilsyn - plejehjemmet hesthavehusene.pdf"
+        "name": "10.05.2023 - Kommunalt tilsyn - Hestehavehusene"
       },
       {
         "url": "https://aarhus.dk/media/3feksk1r/24082022-kommunalt-tilsyn-plejehjemmet-hesthavehusene.pdf?format=noformat",
-        "name": "24.08.2022 kommunalt tilsyn, plejehjemmet hesthavehusene.pdf"
+        "name": "24.08.2022 - Kommunalt tilsyn - Hestehavehusene"
       },
       {
         "url": "https://aarhus.dk/media/kraoxiy1/08122021-kommunalt-opfoelgende-anmeldt-tilsyn-distrikt-syd-plejehjemmet-hestehavehusene.pdf?format=noformat",
-        "name": "08.12.2021 kommunalt opfølgende anmeldt tilsyn distrikt syd, plejehjemmet  hestehavehusene"
+        "name": "08.12.2021 - Kommunalt opfølgende anmeldt tilsyn - Hestehavehusene"
       },
       {
         "url": "https://aarhus.dk/media/yurfu0hz/19082021-kommunalt-opfoelgende-anmeldt-tilsyn-distrikt-syd-plejehjemmet-hestehavehusene.pdf?format=noformat",
-        "name": "19.08.2021 kommunalt opfølgende anmeldt tilsyn distrikt syd, plejehjemmet hestehavehusene"
+        "name": "19.08.2021 - Kommunalt opfølgende anmeldt tilsyn - Hestehavehusene"
       },
       {
         "url": "https://aarhus.dk/media/fk4jugj5/05052021-kommunalt-tilsyn-omraade-viby-hoejbjerg-plejehjemmet-hestehavehusene.pdf?format=noformat",
-        "name": "05.05.2021 kommunalt tilsyn område viby-højbjerg, plejehjemmet hestehavehusene"
+        "name": "05.05.2021 - Kommunalt tilsyn - Hestehavehusene"
       },
       {
         "url": "https://aarhus.dk/media/qyacl5mw/09122020-kommunalt-tilsyn-genbesoeg-omraade-viby-hoejbjerg-plejehjemmet-hestehavehusene.pdf?format=noformat",
-        "name": "09.12.2020 kommunalt tilsyn, genbesøg område viby-højbjerg, plejehjemmet hestehavehusene"
+        "name": "09.12.2020 - Kommunalt tilsyn genbesøg - Hestehavehusene"
       },
       {
         "url": "https://aarhus.dk/media/k2ebto1s/04082020-omraade-viby-hoejbjerg-plejehjemmet-hestehavehusene.pdf?format=noformat",
-        "name": "04.08.2020 område viby-højbjerg. plejehjemmet hestehavehusene"
+        "name": "04.08.2020 - Kommunalt tilsyn - Hestehavehusene"
       }
     ]
   },
   {
     "name": "Kildevang",
+    "dbName": "Plejehjemmet Kildevang",
     "links": [
       {
         "url": "https://aarhus.dk/media/yshd4cb0/29032023-internt-laeringsbesoeg-kildevang.pdf?format=noformat",
-        "name": "29.03.2023 - internt læringsbesøg - kildevang.pdf"
+        "name": "29.03.2023 - Internt læringsbesøg - Kildevang"
       },
       {
         "url": "https://aarhus.dk/media/4xzpzqlr/16112022-kommunalt-tilsyn-distrikt-syd-plejehjemmet-kildevang.pdf?format=noformat",
-        "name": "16.11.2022 kommunalt tilsyn distrikt syd, plejehjemmet kildevang"
+        "name": "16.11.2022 - Kommunalt tilsyn - Kildevang"
       },
       {
         "url": "https://aarhus.dk/media/pjyj5wce/27092021-stps-sundhedsfagligt-tilsyn-distrikt-syd-plejehjemmet-kildevang.pdf?format=noformat",
-        "name": "27.09.2021 stps sundhedsfagligt tilsyn distrikt syd, plejehjemmet kildevang"
+        "name": "27.09.2021 - STPS sundhedsfagligt tilsyn - Kildevang"
       },
       {
         "url": "https://aarhus.dk/media/ydmk422q/21042021-kommunalt-tilsyn-omraade-syd-plejehjemmet-kildevang.pdf?format=noformat",
-        "name": "21.04.2021 kommunalt tilsyn område syd, plejehjemmet kildevang"
+        "name": "21.04.2021 - Kommunalt tilsyn - Kildevang"
       },
       {
         "url": "https://aarhus.dk/media/auejmf3c/21012020-kommunalt-tilsyn-plejehjemmet-kildevang.pdf?format=noformat",
-        "name": "21.01.2020 kommunalt tilsyn, plejehjemmet kildevang"
+        "name": "21.01.2020 - Kommunalt tilsyn - Kildevang"
+      },
+      {
+        "url": "https://aarhus.dk/media/llgls5r5/14012025-kommunalt-tilsyn-plejehjemmet-kildevang.pdf?format=noformat",
+        "name": "14.01.2025 - kommunalt tilsyn - plejehjemmet kildevang"
       }
     ]
   },
   {
     "name": "Koltgården",
+    "dbName": "Plejehjemmet Koltgården",
     "links": [
       {
+        "url": "https://aarhus.dk/media/dbhdimfx/03092024-kommunalt-tilsyn-plejehjemmet-koltgaarden.pdf?format=noformat",
+        "name": "03.09.2024 - Kommunalt tilsyn - Plejehjemmet Koltgården"
+      },
+      {
         "url": "https://aarhus.dk/media/mkbimtif/07-06-2023-kommunalt-tilsyn-koltgaarden.pdf?format=noformat",
-        "name": "07 06 2023 kommunalt tilsyn koltgården"
+        "name": "07.06.2023 - Kommunalt tilsyn - Plejehjemmet Koltgården"
       },
       {
         "url": "https://aarhus.dk/media/hxvptjer/30112022-kommunalt-tilsyn-plejehjemmet-koltgaarden.pdf?format=noformat",
-        "name": "30.11.2022 kommunalt tilsyn, plejehjemmet koltgården"
+        "name": "30.11.2022 - Kommunalt tilsyn - Plejehjemmet Koltgården"
       },
       {
         "url": "https://aarhus.dk/media/l51nwxm1/11102022-stps-aeldretilsyn-distrikt-syd-plejehjemmet-koltgaarden.pdf?format=noformat",
-        "name": "11.10.2022 stps ældretilsyn distrikt syd, plejehjemmet koltgården"
+        "name": "11.10.2022 - STPS ældretilsyn - Plejehjemmet Koltgården"
       },
       {
         "url": "https://aarhus.dk/media/3qjbl5am/26022021-kommunalt-tilsyn-omraade-syd-plejehjemmet-koltgaarden.pdf?format=noformat",
-        "name": "26.02.2021 kommunalt tilsyn område syd, plejehjemmet koltgården"
+        "name": "26.02.2021 - Kommunalt tilsyn - Plejehjemmet Koltgården"
       },
       {
         "url": "https://aarhus.dk/media/pdddbdre/30012020-kommunalt-tilsyn-plejehjemmet-koltgaarden.pdf?format=noformat",
-        "name": "30.01.2020 kommunalt tilsyn plejehjemmet koltgården"
+        "name": "30.01.2020 - Kommunalt tilsyn - Plejehjemmet Koltgården"
       }
     ]
   },
   {
     "name": "Kongsgården",
+    "dbName": "Plejehjemmet Kongsgården",
     "links": [
       {
+        "url": "https://aarhus.dk/media/hxkh151n/18062024-internt-laeringsbesoeg-plejehjemmet-kongsgaarden.pdf?format=noformat",
+        "name": "18.06.2024 - Internt læringsbesøg - Plejehjemmet Kongsgården"
+      },
+      {
         "url": "https://aarhus.dk/media/4p1mi3ml/09012024-kommunalt-tilsyn-kongsgaarden-2023.pdf?format=noformat",
-        "name": "09.01.2024 kommunalt tilsyn kongsgården (2023)"
+        "name": "09.01.2024 - Kommunalt tilsyn - Plejehjemmet Kongsgården (2023)"
       },
       {
         "url": "https://aarhus.dk/media/tuglnjeu/internt-laeringsbesoeg-kongsgaarden-d-71122.pdf?format=noformat",
-        "name": "Internt læringsbesøg kongsgården d. 7.11.22.pdf"
+        "name": "07.11.2022 - Internt læringsbesøg - Plejehjemmet Kongsgården"
       },
       {
         "url": "https://aarhus.dk/media/k2qpqmtr/02092021-kommunalt-tilsyn-distrikt-nord-plejehjemmet-kongsgaarden.pdf?format=noformat",
-        "name": "02.09.2021 kommunalt tilsyn distrikt nord, plejehjemmet kongsgården"
+        "name": "02.09.2021 - Kommunalt tilsyn - Plejehjemmet Kongsgården"
       },
       {
         "url": "https://aarhus.dk/media/n2ilvzh5/11022021-kommunalt-tilsyn-omraade-viby-hoejbjerg-plejehjemmet-kongsgaarden.pdf?format=noformat",
-        "name": "11.02.2021 kommunalt tilsyn område viby-højbjerg, plejehjemmet kongsgården"
+        "name": "11.02.2021 - Kommunalt tilsyn - Plejehjemmet Kongsgården"
       },
       {
         "url": "https://aarhus.dk/media/pd0nb11y/02112020-stps-sundhedsfagligt-tilsyn-omraade-viby-hoejbjerg-plejehjemmet-kongsgaarden.pdf?format=noformat",
-        "name": "02.11.2020 stps sundhedsfagligt tilsyn område viby-højbjerg, plejehjemmet kongsgården"
+        "name": "02.11.2020 - STPS sundhedsfagligt tilsyn - Plejehjemmet Kongsgården"
       },
       {
         "url": "https://aarhus.dk/media/0cqbyprd/02112020-stps-aeldretilsyn-omraade-viby-hoejbjerg-plejehjemmet-kongsgaarden.pdf?format=noformat",
-        "name": "02.11.2020 stps  ældretilsyn område viby-højbjerg, plejehjemmet kongsgården"
+        "name": "02.11.2020 - STPS ældretilsyn - Plejehjemmet Kongsgården"
       }
     ]
   },
   {
     "name": "Kristiansgården",
+    "dbName": "Plejehjemmet Kristiansgården",
     "links": [
       {
+        "url": "https://aarhus.dk/media/s4lg0bod/13012025-internt-laeringsbesoeg-kristiansgaarden.pdf?format=noformat",
+        "name": "13.01.2025 - internt læringsbesøg - kristiansgården"
+      },
+      {
         "url": "https://aarhus.dk/media/bijd133b/070623-internt-laeringsbesoeg-kristiansgaarden.pdf?format=noformat",
-        "name": "07.06.23 internt læringsbesøg kristiansgården"
+        "name": "07.06.2023 - Internt læringsbesøg - Kristiansgården"
       },
       {
         "url": "https://aarhus.dk/media/jtqkzijt/16112022-kommunalt-tilsyn-distrikt-syd-plejehjemmet-kristiansga-rden.pdf?format=noformat",
-        "name": "16.11.2022 kommunalt tilsyn distrikt syd, plejehjemmet kristiansgården"
+        "name": "16.11.2022 - Kommunalt tilsyn - Kristiansgården"
       },
       {
         "url": "https://aarhus.dk/media/ehtiigki/06092022-stps-aeldretilsyn-distrikt-syd-plejehjemmet-kristiansgaarden.pdf?format=noformat",
-        "name": "06.09.2022 stps ældretilsyn distrikt syd, plejehjemmet kristiansgården"
+        "name": "06.09.2022 - STPS ældretilsyn - Kristiansgården"
       },
       {
         "url": "https://aarhus.dk/media/ju4hmmsi/22032021-kommunalt-tilsyn-omraade-syd-plejehjemmet-kristiansgaarden.pdf?format=noformat",
-        "name": "22.03.2021 kommunalt tilsyn område syd, plejehjemmet kristiansgården"
+        "name": "22.03.2021 - Kommunalt tilsyn - Kristiansgården"
       },
       {
         "url": "https://aarhus.dk/media/5wzh44jz/09012020-kommunalt-tilsyn-plejehjemmet-kristiansgaarden.pdf?format=noformat",
-        "name": "09.01.2020 kommunalt tilsyn, plejehjemmet kristiansgården"
+        "name": "09.01.2020 - Kommunalt tilsyn - Kristiansgården"
       }
     ]
   },
   {
     "name": "Madsbjerg",
+    "dbName": "Plejehjemmet Madsbjerg",
     "links": [
       {
+        "url": "https://aarhus.dk/media/5cjd14cp/14082024-kommunalt-tilsyn-plejehjemmet-madsbjerg.pdf?format=noformat",
+        "name": "14.08.2024 - Kommunalt tilsyn - Plejehjemmet Madsbjerg"
+      },
+      {
         "url": "https://aarhus.dk/media/ueybbtr4/24-05-2023-kommunalt-tilsyn-madsbjerg.pdf?format=noformat",
-        "name": "24 05 2023 kommunalt tilsyn madsbjerg"
+        "name": "24.05.2023 - Kommunalt tilsyn - Plejehjemmet Madsbjerg"
       },
       {
         "url": "https://aarhus.dk/media/ku0jnpnt/31082022-kommunalt-tilsyn-plejehjemmet-madsbjerg-distrikt-syd.pdf?format=noformat",
-        "name": "31.08.2022 kommunalt tilsyn, plejehjemmet madsbjerg, distrikt syd"
+        "name": "31.08.2022 - Kommunalt tilsyn - Plejehjemmet Madsbjerg"
       },
       {
         "url": "https://aarhus.dk/media/224pz54m/25102021-kommunalt-opfoelgende-tilsyn-plejehjemmet-madsbjerg-distrikt-syd.pdf?format=noformat",
-        "name": "25.10.2021 kommunalt opfølgende tilsyn, plejehjemmet madsbjerg, distrikt syd"
+        "name": "25.10.2021 - Kommunalt opfølgende tilsyn - Plejehjemmet Madsbjerg"
       },
       {
         "url": "https://aarhus.dk/media/us4bdzi1/06072021-kommunalt-tilsyn-plejehjemmet-madsbjerg-distrikt-syd.pdf?format=noformat",
-        "name": "06.07.2021 kommunalt tilsyn, plejehjemmet madsbjerg, distrikt syd"
+        "name": "06.07.2021 - Kommunalt tilsyn - Plejehjemmet Madsbjerg"
       },
       {
         "url": "https://aarhus.dk/media/zeolicwm/26062020-omraade-viby-hoejbjerg-plejehjemmet-madsbjerg.pdf?format=noformat",
-        "name": "26.06.2020 område viby-højbjerg plejehjemmet madsbjerg"
+        "name": "26.06.2020 - Kommunalt tilsyn - Plejehjemmet Madsbjerg Område Viby-Højbjerg"
       },
       {
         "url": "https://aarhus.dk/media/gbnhtu4h/madsbjerg-25072019-bemaerkningsskema.pdf?format=noformat",
-        "name": "Madsbjerg 25.07.2019 bemærkningsskema"
+        "name": "25.07.2019 - Bemærkningsskema - Plejehjemmet Madsbjerg"
       },
       {
         "url": "https://aarhus.dk/media/t3alqfrk/madsbjerg-25072019-notat.pdf?format=noformat",
-        "name": "Madsbjerg 25.07.2019 notat"
+        "name": "25.07.2019 - Notat - Plejehjemmet Madsbjerg"
       }
     ]
   },
   {
     "name": "Næshøj",
+    "dbName": "Plejehjemmet Næshøj",
     "links": [
       {
+        "url": "https://aarhus.dk/media/idap130t/17092024-kommunalt-tilsyn-plejehjemmet-naeshoej.pdf?format=noformat",
+        "name": "17.09.2024 - Kommunalt tilsyn - Plejehjemmet Næshøj"
+      },
+      {
         "url": "https://aarhus.dk/media/u13ifbda/06092023-kommunalt-tilsyn-plejehjemmet-naeshoej.pdf?format=noformat",
-        "name": "06.09.2023 kommunalt tilsyn plejehjemmet næshøj"
+        "name": "06.09.2023 - Kommunalt tilsyn - Plejehjemmet Næshøj"
       },
       {
         "url": "https://aarhus.dk/media/jjzjciog/internt-laeringsbesoeg-plejehjemmet-naeshoej-d-121222.pdf?format=noformat",
-        "name": "Internt læringsbesøg plejehjemmet næshøj d. 12.12.22.pdf"
+        "name": "12.12.2022 - Internt læringsbesøg - Plejehjemmet Næshøj"
       },
       {
         "url": "https://aarhus.dk/media/rx0nvz1y/13122021-kommunalt-opfoelgende-tilsyn-no-2-distrikt-syd-plejehjemmet-naeshoej.pdf?format=noformat",
-        "name": "13.12.2021 kommunalt opfølgende tilsyn no. 2, distrikt syd, plejehjemmet næshøj"
+        "name": "13.12.2021 - Kommunalt opfølgende tilsyn no. 2 - Plejehjemmet Næshøj"
       },
       {
         "url": "https://aarhus.dk/media/ukdflwah/12082021-kommunalt-opfoelgende-tilsyn-distrikt-syd-plejehjemmet-naeshoej.pdf?format=noformat",
-        "name": "12.08.2021 kommunalt opfølgende tilsyn distrikt syd, plejehjemmet næshøj"
+        "name": "12.08.2021 - Kommunalt opfølgende tilsyn - Plejehjemmet Næshøj"
       },
       {
         "url": "https://aarhus.dk/media/biscw4hi/26042021-kommunalt-tilsyn-omraade-vest-plejehjemmet-naeshoej.pdf?format=noformat",
-        "name": "26.04.2021 kommunalt tilsyn område vest, plejehjemmet næshøj"
+        "name": "26.04.2021 - Kommunalt tilsyn - Plejehjemmet Næshøj"
       },
       {
         "url": "https://aarhus.dk/media/5jdb53o5/25022020-kommunalt-tilsyn-omraade-vest-plejehjemmet-naeshoej.pdf?format=noformat",
-        "name": "25.02.2020 kommunalt tilsyn, område vest, plejehjemmet næshøj"
+        "name": "25.02.2020 - Kommunalt tilsyn - Plejehjemmet Næshøj"
       }
     ]
   },
   {
     "name": "Solbjerg",
+    "dbName": "Plejehjemmet Solbjerg",
     "links": [
       {
+        "url": "https://aarhus.dk/media/r0mbnmqf/22012025-kommunalt-tilsyn-plejehjemmet-solbjerg.pdf?format=noformat",
+        "name": "22.01.2025 - kommunalt tilsyn - plejehjemmet solbjerg"
+      },
+      {
         "url": "https://aarhus.dk/media/ykegeh1l/31-05-2023-kommunalt-tilsn-solbjerg.pdf?format=noformat",
-        "name": "31 05 2023 kommunalt tilsyn solbjerg"
+        "name": "31.05.2023 - Kommunalt tilsyn - Plejehjem Solbjerg"
       },
       {
         "url": "https://aarhus.dk/media/jhcjdz3c/30112022-kommunalt-tilsyn-solbjerg-plejehjem.pdf?format=noformat",
-        "name": "30.11.2022 kommunalt tilsyn, solbjerg plejehjem"
+        "name": "30.11.2022 - Kommunalt tilsyn - Plejehjem Solbjerg"
       },
       {
         "url": "https://aarhus.dk/media/krdjb4lk/04032021-kommunalt-tilsyn-omraade-syd-plejehjemmet-solbjerg.pdf?format=noformat",
-        "name": "04.03.2021 kommunalt tilsyn område syd, plejehjemmet solbjerg"
+        "name": "04.03.2021 - Kommunalt tilsyn - Plejehjem Solbjerg"
       },
       {
         "url": "https://aarhus.dk/media/acsjunjv/07012020-kommunalt-tilsyn-plejehjemmet-solbjerg.pdf?format=noformat",
-        "name": "07.01.2020 kommunalt tilsyn plejehjemmet solbjerg"
+        "name": "07.01.2020 - Kommunalt tilsyn - Plejehjem Solbjerg"
       }
     ]
   },
   {
     "name": "Søholm",
+    "dbName": "Plejehjemmet Søholm",
     "links": [
       {
+        "url": "https://aarhus.dk/media/3n4dpz04/24092024-internt-laeringsbesoeg-plejehjemmet-soeholm.pdf?format=noformat",
+        "name": "24.09.2024 - Internt læringsbesøg - Plejehjemmet Søholm"
+      },
+      {
         "url": "https://aarhus.dk/media/zuqpcowy/03052023-kommunalt-tilsyn-plejehjemmet-soeholm.pdf?format=noformat",
-        "name": "03.05.2023 - kommunalt tilsyn - plejehjemmet søholm.pdf"
+        "name": "03.05.2023 - Kommunalt tilsyn - Plejehjemmet Søholm"
       },
       {
         "url": "https://aarhus.dk/media/351b1cy5/17082022-kommunalt-tilsyn-plejehjemmet-soeholm.pdf?format=noformat",
-        "name": "17.08.2022 kommunalt tilsyn, plejehjemmet søholm"
+        "name": "17.08.2022 - Kommunalt tilsyn - Plejehjemmet Søholm"
       },
       {
         "url": "https://aarhus.dk/media/pqlcdwso/16032021-kommunalt-tilsyn-plejehjemmet-soeholm-omraade-vest.pdf?format=noformat",
-        "name": "16.03.2021 kommunalt tilsyn, plejehjemmet søholm, område vest"
+        "name": "16.03.2021 - Kommunalt tilsyn - Plejehjemmet Søholm"
       },
       {
         "url": "https://aarhus.dk/media/jfyhumzl/10032020-stps-aeldretilsyn-plejehjemmet-soeholm-omraade-vest.pdf?format=noformat",
-        "name": "10.03.2020 stps ældretilsyn, plejehjemmet søholm, område vest"
+        "name": "10.03.2020 - STPS ældretilsyn - Plejehjemmet Søholm"
       },
       {
         "url": "https://aarhus.dk/media/mavnnikd/10032020-kommunalt-tilsyn-plejehjemmet-soeholm-omraade-vest.pdf?format=noformat",
-        "name": "10.03.2020 kommunalt tilsyn, plejehjemmet søholm, område vest"
+        "name": "10.03.2020 - Kommunalt tilsyn - Plejehjemmet Søholm"
       }
     ]
   },
   {
     "name": "Tranbjerg",
+    "dbName": "Plejehjemmet Tranbjerg",
     "links": [
       {
+        "url": "https://aarhus.dk/media/rzulelps/10092024-kommunalt-tilsyn-plejehjemmet-tranbjerg.pdf?format=noformat",
+        "name": "10.09.2024 - Kommunalt tilsyn - Plejehjemmet Tranbjerg"
+      },
+      {
         "url": "https://aarhus.dk/media/0mvmcvqb/endelig-tilsynsrapport.pdf?format=noformat",
-        "name": "22.02.2024 STPS Ældretilsyn. Distrikt Syd, Plejehjemmet Tranbjerg"
+        "name": "22.02.2024 - STPS ældretilsyn - Plejehjemmet Tranbjerg"
       },
       {
         "url": "https://aarhus.dk/media/hqfgyi1r/internt-laeringsbesoeg-tranbjerg-14-06-2023.pdf?format=noformat",
-        "name": "Internt læringsbesøg tranbjerg 14 06 2023"
+        "name": "14.06.2023 - Internt læringsbesøg - Plejehjemmet Tranbjerg"
       },
       {
         "url": "https://aarhus.dk/media/mmzduqu5/internt-laeringsbesoeg-tranbjerg-d-61022.pdf?format=noformat",
-        "name": "Internt læringsbesøg tranbjerg d. 6.10.22.pdf"
+        "name": "06.10.2022 - Internt læringsbesøg - Plejehjemmet Tranbjerg"
       },
       {
         "url": "https://aarhus.dk/media/tcfbyahe/21092021-stps-sundhedsfagligt-tilsyn-distrikt-syd-plejehjemmet-tranbjerg.pdf?format=noformat",
-        "name": "21.09.2021 stps sundhedsfagligt tilsyn distrikt syd, plejehjemmet tranbjerg"
+        "name": "21.09.2021 - STPS sundhedsfagligt tilsyn - Plejehjemmet Tranbjerg"
       },
       {
         "url": "https://aarhus.dk/media/4hbnocok/06042021-kommunalt-tilsyn-omraade-syd-plejehjemmet-tranbjerg.pdf?format=noformat",
-        "name": "06.04.2021 kommunalt tilsyn, område syd, plejehjemmet tranbjerg"
+        "name": "06.04.2021 - Kommunalt tilsyn - Plejehjemmet Tranbjerg"
       },
       {
         "url": "https://aarhus.dk/media/bx3hzj2w/14012020-kommunalt-tilsyn-omraade-syd-plejehjemmet-tranbjerg.pdf?format=noformat",
-        "name": "14.01.2020 kommunalt tilsyn, område syd, plejehjemmet tranbjerg"
+        "name": "14.01.2020 - Kommunalt tilsyn - Plejehjemmet Tranbjerg"
       }
     ]
   },
   {
     "name": "Aarhus Friplejehjem Slet",
+    "dbName": "Aarhus Friplejehjem Slet",
     "links": [
       {
+        "url": "https://aarhus.dk/media/whqldbev/20062024-stps-sundhedsfagligt-tilsyn-aarhus-friplejehjem-slet.pdf?format=noformat",
+        "name": "20.06.2024 - stps sundhedsfagligt tilsyn - friplejehjem slet"
+      },
+      {
+        "url": "https://aarhus.dk/media/yjld0xmt/04062024-kommunalt-tilsyn-aarhus-friplejehjem.pdf?format=noformat",
+        "name": "04.06.2024 - Kommunalt tilsyn - Aarhus Friplejehjem Slet"
+      },
+      {
         "url": "https://aarhus.dk/media/jtqfccsu/050423-kommunalt-tilsyn-aarhus-friplejehjem.pdf?format=noformat",
-        "name": "05.04.23 - kommunalt tilsyn - aarhus friplejehjem.pdf"
+        "name": "05.04.2023 - Kommunalt tilsyn - Aarhus Friplejehjem Slet"
       },
       {
         "url": "https://aarhus.dk/media/twelapn2/internt-laeringsbesoeg-aarhus-friplejehjem-d-13922.pdf?format=noformat",
-        "name": "Internt læringsbesøg aarhus friplejehjem d. 13.9.22.pdf"
+        "name": "13.09.2022 - Internt læringsbesøg - Aarhus Friplejehjem Slet"
       },
       {
         "url": "https://aarhus.dk/media/1vllmpc5/02032021-kommunalt-tilsyn-aarhus-friplejehjem.pdf?format=noformat",
-        "name": "02.03.2021 kommunalt tilsyn aarhus friplejehjem"
+        "name": "02.03.2021 - Kommunalt tilsyn - Aarhus Friplejehjem Slet"
       },
       {
         "url": "https://aarhus.dk/media/ehmnfi0r/01072020-kommunalt-tilsyn-aarhus-friplejehjem.pdf?format=noformat",
-        "name": "01.07.2020 kommunalt tilsyn aarhus friplejehjem"
+        "name": "01.07.2020 - Kommunalt tilsyn - Aarhus Friplejehjem Slet"
       }
     ]
   },
   {
     "name": "Den kommunale hjemmeplejeTilsynsrapporter",
+    "dbName": "No direct match",
     "links": [
       {
+        "url": "https://aarhus.dk/media/3tyf3sx5/14112024-stps-aeldre-tilsyn-hjpl-abildgaarden-bjerggaarden.pdf?format=noformat",
+        "name": "14.11.2024 - STPS Ældre tilsyn - Hj.pl. Abildgården/Bjerggården"
+      },
+      {
+        "url": "https://aarhus.dk/media/hpleklnd/22082024-stps-aeldretilsyn-hjpl-tilst.pdf?format=noformat",
+        "name": "22.08.2024 - STPS ældretilsyn - Hj.pl. Tilst"
+      },
+      {
+        "url": "https://aarhus.dk/media/xucdeg5m/21-05-2024-stps-medicintilsyn-hjpl-stavtrup-boegeskovhus.pdf?format=noformat",
+        "name": "21.05.2024 - STPS medicintilsyn - Hj.pl. Stavtrup Bøgeskovhus"
+      },
+      {
+        "url": "https://aarhus.dk/media/gyglztdj/02042024-stps-sundhedsfagligt-tilsyn-hjpl-marselis.pdf?format=noformat",
+        "name": "02.04.2024 - STPS sundhedsfagligt tilsyn - Hj.pl. Marselis"
+      },
+      {
         "url": "https://aarhus.dk/media/fgrdtlqr/12122023-sundhedsfagligt-tilsyn-medicinhaandtering-hjpl-skelager.pdf?format=noformat",
-        "name": "12.12.2023 - sundhedsfagligt tilsyn medicinhåndtering - hj.pl. skelager"
+        "name": "12.12.2023 - STPS sundhedsfagligt tilsyn medicinhåndtering - Hj.pl. Skelager"
       },
       {
         "url": "https://aarhus.dk/media/copjhpiz/20112023-tilsyn-med-insulin-hjpl-lystrup.pdf?format=noformat",
-        "name": "20.11.2023 tilsyn med insulin hj.pl. lystrup"
+        "name": "20.11.2023 - STPS tilsyn med insulin - Hj.pl. Lystrup"
       },
       {
         "url": "https://aarhus.dk/media/pztav0mt/14-11-2023-aeldretilsyn-stps-hjpl-rosenvang.pdf?format=noformat",
-        "name": "14-11-2023 - ældretilsyn stps - hj.pl. rosenvang"
+        "name": "14.11.2023 - STPS ældretilsyn - Hj.pl. Rosenvang"
       },
       {
         "url": "https://aarhus.dk/media/2oxcaxzr/06-27-2023-stps-insulin-hj-pl-frederiksbjergpdf.pdf?format=noformat",
-        "name": "06-27-2023 - stps insulin - hj. pl. frederiksbjerg.pdf"
+        "name": "27.06.2023 - STPS insulin - Hj.pl. Frederiksbjerg"
       },
       {
         "url": "https://aarhus.dk/media/xuoed4is/29-06-2023-stps-sundhedsfagligt-tilsyn-hjpl-brabrandpdf.pdf?format=noformat",
-        "name": "29-06-2023 - stps - sundhedsfagligt tilsyn - hj.pl. brabrand.pdf"
+        "name": "29.06.2023 - STPS sundhedsfagligt tilsyn - Hj.pl. Brabrand"
       },
       {
         "url": "https://aarhus.dk/media/tejdpadb/20-06-2023-stps-aeldretilsyn-hjpl-aabygaardpdf.pdf?format=noformat",
-        "name": "20-06-2023 - stps - ældretilsyn hj.pl. åbygård.pdf"
+        "name": "20.06.2023 - STPS ældretilsyn - Hj.pl. Åbygård"
       },
       {
         "url": "https://aarhus.dk/media/ijqlbld1/hjpl-vestervang-27-04-2023-stps-aeldretilsyn.pdf?format=noformat",
-        "name": "27.04.2023 Hj.pl vestervang - stps ældretilsyn"
+        "name": "27.04.2023 - STPS ældretilsyn - Hj.pl Vestervang"
       },
       {
         "url": "https://aarhus.dk/media/3zqerozp/10012023-stps-tilsynsrapport-blodfortyndende-medicin-hjemmeplejen-vestervang.pdf?format=noformat",
-        "name": "10.01.2023 stps tilsynsrapport - blodfortyndende medicin - hjemmeplejen vestervang.pdf"
+        "name": "10.01.2023 - STPS tilsyn blodfortyndende medicin - Hj.pl. Vestervang"
       },
       {
         "url": "https://aarhus.dk/media/gtwaszzp/06122022-stps-sundhedsfagligt-tilsyn-hjemmeplejen-toftegaarden.pdf?format=noformat",
-        "name": "06.12.2022 - stps sundhedsfagligt tilsyn - hjemmeplejen toftegården.pdf"
+        "name": "06.12.2022 - STPS sundhedsfagligt tilsyn - Hj.pl. Toftegården"
       },
       {
         "url": "https://aarhus.dk/media/ascho3fc/13102022-stps-sundhedsfagligt-tilsyn-hjemmeplejen-skoedstrup.pdf?format=noformat",
-        "name": "13.10.2022 stps sundhedsfagligt tilsyn, hjemmeplejen skødstrup"
+        "name": "13.10.2022 - STPS sundhedsfagligt tilsyn - Hj.pl. Skødstrup"
       },
       {
         "url": "https://aarhus.dk/media/41vedgrm/24012022-stps-blodfortyndende-hjemmeplejen-skaade-1.pdf?format=noformat",
-        "name": "24.01.2022 - stps - blodfortyndende - hjemmeplejen skåde 1.pdf"
+        "name": "24.01.2022 - STPS tilsyn blodfortyndende - Hj.pl. Skåde 1"
       },
       {
         "url": "https://aarhus.dk/media/e1vl0dxg/26102021-stps-aeldretilsyn-distrikt-midt-hjemmeplejen-fuglebakken.pdf?format=noformat",
-        "name": "26.10.2021 stps ældretilsyn distrikt midt, hjemmeplejen fuglebakken.pdf"
+        "name": "26.10.2021 - STPS ældretilsyn - Hj.pl. Fuglebakken"
       },
       {
         "url": "https://aarhus.dk/media/sj3bhdyc/1904-2021-stps-reaktivt-aeldretilsyn-omraade-christiansbjerg-hjemmeplejen-oesteroegade-20.pdf?format=noformat",
-        "name": "19.04 2021 stps reaktivt ældretilsyn område christiansbjerg, hjemmeplejen østerøgade 20"
+        "name": "19.04.2021 - STPS reaktivt ældretilsyn - Område Christiansbjerg, Hj.pl. Østerøgade 20"
       },
       {
         "url": "https://aarhus.dk/media/cicjcjb3/07112020-stps-aeldretilsyn-hjemmeplejen-lc-hasle.pdf?format=noformat",
-        "name": "07.11.2020 stps ældretilsyn, hjemmeplejen lc hasle"
+        "name": "07.11.2020 - STPS ældretilsyn - Hj.pl. lc Hasle"
       },
       {
         "url": "https://aarhus.dk/media/wvnmyyu1/26112019-stps-aeldretilsyn-lokalcenter-dalgas.pdf?format=noformat",
-        "name": "26.11.2019 stps ældretilsyn, lokalcenter dalgas"
+        "name": "26.11.2019 - STPS ældretilsyn - Lokalcenter Dalgas"
       },
       {
         "url": "https://aarhus.dk/media/naef05oz/26112019-stps-sundhedsfagligt-tilsyn-med-methotrexat-i-plejesektoren-hjemmesygeplejen-aabygaard.pdf?format=noformat",
-        "name": "26.11.2019 stps sundhedsfagligt tilsyn (med methotrexat i plejesektoren), hjemmesygeplejen åbygaard"
+        "name": "26.11.2019 - STPS sundhedsfagligt tilsyn (med methotrexat i plejesektoren) - Hjemmesygeplejen Åbygaard"
       },
       {
         "url": "https://aarhus.dk/media/lwzlskwu/31102019-stps-aeldretilsyn-hjemmeplejen-kingosvej.pdf?format=noformat",
-        "name": "31.10.2019 stps ældretilsyn, hjemmeplejen kingosvej"
+        "name": "31.10.2019 - STPS ældretilsyn - Hj.pl. kingosvej"
       },
       {
         "url": "https://aarhus.dk/media/fbkdz0w2/08102019-stps-aeldretilsyn-hjemmeplejen-grenaavej-omraade-nord.pdf?format=noformat",
-        "name": "08.10.2019 stps ældretilsyn, hjemmeplejen grenåvej, område nord"
+        "name": "08.10.2019 - STPS ældretilsyn - Hj.pl. Grenåvej, Område Nord"
       },
       {
         "url": "https://aarhus.dk/media/3zzfgajp/19092019-stps-aeldretilsyn-lokalcenter-holme.pdf?format=noformat",
-        "name": "19.09.2019 stps ældretilsyn, lokalcenter holme"
+        "name": "19.09.2019 - STPS ældretilsyn - Lokalcenter Holme"
       },
       {
         "url": "https://aarhus.dk/media/cy3ctydl/28082019-stps-sundhedsfagligt-tilsyn-hjortshoej-hjemmepleje-omraade-nord.pdf?format=noformat",
-        "name": "28.08.2019 stps sundhedsfagligt tilsyn, hjortshøj hjemmepleje, område nord"
+        "name": "28.08.2019 - STPS sundhedsfagligt tilsyn - Hj.pl. Hjortshøj, Område Nord"
       }
     ]
   },
   {
     "name": "VikærgårdenTilsynsrapporter",
+    "dbName": "No direct match",
     "links": [
       {
         "url": "https://aarhus.dk/media/jn5mgst5/06-12-2023-kommunalt-tilsyn-tilsynsrapport-vikaerga-rden-2023-afd-3.pdf?format=noformat",
-        "name": "06 12 2023 kommunalt tilsyn tilsynsrapport vikærgården 2023, afd. 3"
+        "name": "06.12.2023 - Kommunalt tilsyn - Vikærgården afd. 3"
       },
       {
         "url": "https://aarhus.dk/media/j5kdwjfy/23032023-stps-sundhedsfagligt-tilsyn-ortopaedkirurgisk-patientforloeb-vikaergaarden.pdf?format=noformat",
-        "name": "23.03.2023  stps sundhedsfagligt tilsyn, ortopædkirurgisk patientforløb, vikærgården"
+        "name": "23.03.2023 - STPS sundhedsfagligt tilsyn, ortopædkirurgisk patientforløb - Vikærgården"
       },
       {
         "url": "https://aarhus.dk/media/rx1hebeh/231122-tilsynsrapport-vikaergaarden-akuttilbud-og-rehabilitering.pdf?format=noformat",
-        "name": "23.11.22 tilsynsrapport - vikærgården - akuttilbud og rehabilitering.pdf"
+        "name": "23.11.22 - Kommunalt tilsyn - Vikærgården - akuttilbud og rehabilitering"
       },
       {
         "url": "https://aarhus.dk/media/dofkj3py/12042021-kommunalt-tilsyn-vikaergaarden-rehab-afd-3.pdf?format=noformat",
-        "name": "12.04.2021 kommunalt tilsyn, vikærgården, rehab. afd. 3"
+        "name": "12.04.2021 - Kommunalt tilsyn - Vikærgården, rehab. afd. 3"
       },
       {
         "url": "https://aarhus.dk/media/0qyfijlw/16062020-kommunalt-tilsyn-vikaergaarden-rehab-afd-3.pdf?format=noformat",
-        "name": "16.06.2020 kommunalt tilsyn, vikærgården, rehab afd. 3"
+        "name": "16.06.2020 - Kommunalt tilsyn - Vikærgården, rehab afd. 3"
       },
       {
         "url": "https://aarhus.dk/media/slnppto0/13082019-stps-sundhedsfagligt-tilsyn-vikaergaarden.pdf?format=noformat",
-        "name": "13.08.2019 stps sundhedsfagligt tilsyn, vikærgården"
+        "name": "13.08.2019 - STPS sundhedsfagligt tilsyn - Vikærgården"
       }
     ]
   },
   {
     "name": "SundhedsenhederTilsynsrapporter",
+    "dbName": "No direct match",
     "links": [
       {
+        "url": "https://aarhus.dk/media/3oob5lfp/28112024-stps-sundhedsfagligt-tilsyn-akutteamet.pdf?format=noformat",
+        "name": "28.11.2024 - stps sundhedsfagligt tilsyn - akut teamet"
+      },
+      {
         "url": "https://aarhus.dk/media/jiic5aoz/08112022-stps-sundhedsfagligt-tilsyn-distrikt-syd-sundhedsenheden-viby-stautrup.pdf?format=noformat",
-        "name": "08.11.2022 stps sundhedsfagligt tilsyn distrikt syd, sundhedsenheden viby/stautrup"
+        "name": "08.11.2022 - STPS sundhedsfagligt tilsyn - Distrikt Dyd, Sundhedsenhed Viby/Stautrup"
       },
       {
         "url": "https://aarhus.dk/media/y1fpb3bv/15112021-stps-sundhedsfagligt-tilsyn-distrikt-nord-sundhedsenhed-toftegaarden.pdf?format=noformat",
-        "name": "15.11.2021 stps sundhedsfagligt tilsyn distrikt nord, sundhedsenhed toftegården"
+        "name": "15.11.2021 - STPS sundhedsfagligt tilsyn - Distrikt Nord, Sundhedsenhed Toftegården"
       },
       {
         "url": "https://aarhus.dk/media/tmbjfmff/19042021-stps-sundhedsfagligt-reaktivt-tilsyn-sundhedsenhed-hjortshoej-omraade-nord.pdf?format=noformat",
-        "name": "19.04.2021 stps sundhedsfagligt reaktivt tilsyn, sundhedsenhed hjortshøj, område nord"
+        "name": "19.04.2021 - STPS sundhedsfagligt reaktivt tilsyn - Område Nord, Sundhedsenhed Hjortshøj"
       },
       {
         "url": "https://aarhus.dk/media/yqvejdpu/03082020-stps-tilsynsrapport-sundhedsenheden-omraade-nord.pdf?format=noformat",
-        "name": "03.08.2020 stps tilsynsrapport, sundhedsenheden område nord"
+        "name": "03.08.2020 - STPS tilsyn - Sundhedsenheden Område Nord"
       },
       {
         "url": "https://aarhus.dk/media/j5ei03sa/09062020-stps-sundhedsfagligt-tilsyn-sundhedsenheden-skelager-vejlby-omraade-christiansbjerg.pdf?format=noformat",
-        "name": "09.06.2020 stps sundhedsfagligt tilsyn, sundhedsenheden skelager/vejlby, område christiansbjerg"
+        "name": "09.06.2020 - STPS sundhedsfagligt tilsyn - Område Christiansbjerg, Sundhedsenhed Skelager/Vejlby"
       }
     ]
   },
   {
     "name": "SundhedsklinikkerTilsynsrapporter",
+    "dbName": "No direct match",
     "links": [
       {
-        "url": "https://aarhus.dk/media/yxmfvbk5/stp-sundhedsfagligt-tilsyn-omraade-nord-sygeplejeklinikken-skaering.pdf?format=noformat",
-        "name": "Stp. sundhedsfagligt tilsyn. område nord. sygeplejeklinikken skæring"
+        "url": "https://aarhus.dk/media/xigiqti4/07092023-stps-sundhedsfagligt-tilsyn-sundhedsklinik-gellerup.pdf?format=noformat",
+        "name": "07.09.2023 - STPS sundhedsfagligt tilsyn - Sundhedsklinik Gellerup"
       },
       {
-        "url": "https://aarhus.dk/media/xigiqti4/07092023-stps-sundhedsfagligt-tilsyn-sundhedsklinik-gellerup.pdf?format=noformat",
-        "name": "07.09.2023 stps sundhedsfagligt tilsyn sundhedsklinik gellerup"
+        "url": "https://aarhus.dk/media/yxmfvbk5/stp-sundhedsfagligt-tilsyn-omraade-nord-sygeplejeklinikken-skaering.pdf?format=noformat",
+        "name": "23.07.2019 - STPS sundhedsfagligt tilsyn - Område Nord, Sygeplejeklinikken Skæring"
       }
     ]
   },
   {
     "name": "DemensCentrum Aarhus (lukket)Tilsynsrapporter",
+    "dbName": "No direct match",
     "links": [
       {
         "url": "https://aarhus.dk/media/gd1b4040/27082020-stps-aeldretilsyn-paa-demenscentrum-aarhus.pdf?format=noformat",
-        "name": "27.08.2020  stps. ældretilsyn  på demenscentrum aarhus"
+        "name": "27.08.2020 - stps ældretilsyn - demenscentrum aarhus"
       },
       {
         "url": "https://aarhus.dk/media/jscnq31z/20022020-dca-korttidsafdelingen.pdf?format=noformat",

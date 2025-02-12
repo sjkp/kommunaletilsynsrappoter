@@ -1,6 +1,7 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
+const aamap = require("./aamap.json");
 
 async function scrapeData(plejehjem, url) {
     try {
@@ -22,6 +23,7 @@ async function scrapeData(plejehjem, url) {
           
         plejehjem.push({        
           name: name,
+          dbName: aamap[name] || "", // Use the imported JSON data
           links: $('.list__link', el).map((idx, el) => {
                 return {url: 'https://aarhus.dk' + el.attribs.href,
                         name: $('.list__content > span', el).text()}
