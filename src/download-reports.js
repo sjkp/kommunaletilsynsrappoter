@@ -4,7 +4,7 @@ const path = require('path');
 const https = require('https');
 
 async function downloadReports() {
-  const browser = await chromium.launch({ headless: false });
+  const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
 
   // Load the URLs from data-urls.json
@@ -22,7 +22,7 @@ async function downloadReports() {
   let failCount = 0;
 
   // Process each URL
-  for (let i = 0; i < 10; i++) {
+  for (let i = 0; i < dataUrls.length; i++) {
     const url = dataUrls[i];
     console.log(`\n[${i + 1}/${dataUrls.length}] Processing: ${url}`);
 
