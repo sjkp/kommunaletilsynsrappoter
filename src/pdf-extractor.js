@@ -22,7 +22,7 @@ function findPDFs(dir, fileList = []) {
 
 // Process all PDFs in the downloads folder
 async function processAllPDFs() {
-  const downloadsDir = path.join(__dirname, '..', 'downloads');
+  const downloadsDir = path.join(__dirname, 'downloads');
 
   // Check if downloads directory exists
   if (!fs.existsSync(downloadsDir)) {
